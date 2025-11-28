@@ -1,0 +1,179 @@
+{
+  "id": 146,
+  "titulo": "Pretérito Pluscuamperfecto Subj.",
+  "modulo": {
+    "numero": 19,
+    "nome": "Subjuntivo Avançado"
+  },
+  "nivel": "Avançado (C1)",
+  "duracao": "30 min",
+  "praticaSofia": false,
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción",
+      "texto": "¡Hola! En esta lección vamos a aprender sobre: Pretérito Pluscuamperfecto Subj..\n\nEste tema es fundamental para tu progreso en español. ¡Vamos a empezar!"
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Pretérito Pluscuamperfecto Subj.",
+      "texto": "En esta lección estudiaremos:\n\n• • hubiera/hubiese + participio\n\nCada uno de estos puntos es importante para dominar el español.",
+      "comparacao": "Compara sempre com o português para entender melhor as diferenças e semelhanças."
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Aprender",
+      "pt": "Aprender",
+      "pron": "[aprendér]"
+    },
+    {
+      "es": "Estudiar",
+      "pt": "Estudar",
+      "pron": "[estudiár]"
+    },
+    {
+      "es": "Practicar",
+      "pt": "Praticar",
+      "pron": "[praktikár]"
+    },
+    {
+      "es": "Entender",
+      "pt": "Entender",
+      "pron": "[entendér]"
+    },
+    {
+      "es": "Ejemplo",
+      "pt": "Exemplo",
+      "pron": "[errémplo]"
+    },
+    {
+      "es": "Palabra",
+      "pt": "Palavra",
+      "pron": "[palábra]"
+    },
+    {
+      "es": "Frase",
+      "pt": "Frase",
+      "pron": "[fráse]"
+    },
+    {
+      "es": "Pregunta",
+      "pt": "Pergunta",
+      "pron": "[pregúnta]"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "Qual é o tema principal desta aula?",
+      "opcoes": [
+        "Pretérito Pluscuamperfecto Subj.",
+        "Gramática avançada",
+        "Vocabulário técnico"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em espanhol, como dizemos 'aprender'?",
+      "opcoes": [
+        "Aprender",
+        "Aprinder",
+        "Aprendir"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual frase está correta?",
+      "opcoes": [
+        "Yo estudio español",
+        "Yo estudiar español",
+        "Yo estudiando español"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Como se diz 'praticar' em espanhol?",
+      "opcoes": [
+        "Praticar",
+        "Practicar",
+        "Pratiquar"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Complete: 'Hoy vamos a estudiar ___'",
+      "tipo": "texto",
+      "resposta": [
+        "español",
+        "espanhol"
+      ]
+    }
+  ],
+  "testeOral": [
+    "Esta lección es sobre Pretérito Pluscuamperfecto Subj.",
+    "Me gusta aprender español",
+    "Practico todos los días"
+  ],
+  "audio": [
+    {
+      "text": "¡Hola! Bienvenido a la lección: Pretérito Pluscuamperfecto Subj..",
+      "pause": 1200
+    },
+    {
+      "text": "En esta clase vamos a aprender conceptos muy importantes.",
+      "pause": 1000
+    },
+    {
+      "text": "Los temas de hoy son: hubiera/hubiese + participio.",
+      "pause": 1500
+    },
+    {
+      "text": "Presta mucha atención a los ejemplos.",
+      "pause": 1000
+    },
+    {
+      "text": "Repite conmigo las palabras nuevas.",
+      "pause": 1000
+    },
+    {
+      "text": "Aprender. Estudiar. Practicar. Entender.",
+      "pause": 2500
+    },
+    {
+      "text": "Es importante practicar todos los días.",
+      "pause": 1200
+    },
+    {
+      "text": "Aunque sea solo diez minutos.",
+      "pause": 1000
+    },
+    {
+      "text": "La constancia es la clave del éxito.",
+      "pause": 1200
+    },
+    {
+      "text": "Ahora vamos a ver los contenidos principales.",
+      "pause": 1000
+    },
+    {
+      "text": "Recuerda tomar notas de lo más importante.",
+      "pause": 1200
+    },
+    {
+      "text": "Si tienes dudas, puedes repetir la lección.",
+      "pause": 1000
+    },
+    {
+      "text": "¡Muy bien! Has completado esta parte de la lección.",
+      "pause": 1000
+    },
+    {
+      "text": "Ahora haz los ejercicios para practicar.",
+      "pause": 1000
+    },
+    {
+      "text": "¡Hasta la próxima clase!",
+      "pause": 500
+    }
+  ]
+}
