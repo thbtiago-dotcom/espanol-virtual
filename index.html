@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#1a4d2e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Español Virtual">
+    <meta name="description" content="Aprenda espanhol do básico ao avançado">
+    
+    <title>Español Virtual</title>
+    
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <link rel="icon" type="image/png" href="icons/icon-192.png">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">🏫</span>
+                <h1>Español Virtual</h1>
+            </div>
+            <div class="user-progress">
+                <div class="progress-item">
+                    <span>📚</span>
+                    <span>Aula <strong id="current-lesson">1</strong>/200</span>
+                </div>
+                <div class="progress-item">
+                    <span>🎯</span>
+                    <span><strong id="current-level">Básico</strong></span>
+                </div>
+                <div class="progress-item">
+                    <span>⭐</span>
+                    <span><strong id="average-grade">--</strong></span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav-tabs">
+        <button class="nav-tab active" data-tab="aula">
+            <span>📖</span> Aula
+        </button>
+        <button class="nav-tab" data-tab="curso">
+            <span>📚</span> Curso
+        </button>
+        <button class="nav-tab" data-tab="sofia">
+            <span>🗣️</span> Sofía
+        </button>
+        <button class="nav-tab" data-tab="notas">
+            <span>📊</span> Notas
+        </button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-container">
+        <div class="content-card">
+            
+            <!-- TAB: Aula -->
+            <div id="tab-aula" class="tab-content active">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Carregando aula...</p>
+                </div>
+            </div>
+
+            <!-- TAB: Curso -->
+            <div id="tab-curso" class="tab-content">
+                <h2 style="font-family: 'Playfair Display', serif; margin-bottom: 1rem; font-size: 1.3rem;">
+                    📚 Estrutura do Curso
+                </h2>
+                <div id="courseOverview" class="course-overview">
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        <p>Carregando...</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TAB: Sofía -->
+            <div id="tab-sofia" class="tab-content">
+                <div class="chat-container">
+                    <div class="chat-header">
+                        <div class="sofia-avatar">👩‍🏫</div>
+                        <div class="sofia-info">
+                            <h4>Sofía - Conversación</h4>
+                            <span>🟢 Online</span>
+                        </div>
+                    </div>
+                    
+                    <div class="chat-messages" id="chatMessages">
+                        <div class="message sofia">
+                            <p>¡Hola! Soy Sofía, tu compañera de conversación. 😊</p>
+                            <p class="translation">Olá! Sou Sofía, sua parceira de conversação.</p>
+                        </div>
+                        <div class="message sofia">
+                            <p>Escribe en español y yo te ayudo a practicar. ¿Cómo te llamas?</p>
+                            <p class="translation">Escreva em espanhol e eu te ajudo a praticar. Como você se chama?</p>
+                        </div>
+                    </div>
+
+                    <div class="chat-input-area">
+                        <input type="text" class="chat-input" id="chatInput" 
+                               placeholder="Escribe en español..." 
+                               onkeypress="handleChatKeypress(event)">
+                        <button class="voice-btn" id="voiceChatBtn" onclick="toggleVoiceChat()">🎤</button>
+                        <button class="send-btn" onclick="sendChatMessage()">➤</button>
+                    </div>
+                </div>
+                
+                <p style="font-size: 0.8rem; color: var(--text-muted); text-align: center; margin-top: 0.75rem;">
+                    💡 Sofía corrige erros e dá notas de 0-10
+                </p>
+            </div>
+
+            <!-- TAB: Notas -->
+            <div id="tab-notas" class="tab-content">
+                <h2 style="font-family: 'Playfair Display', serif; margin-bottom: 1rem; font-size: 1.3rem;">
+                    📊 Suas Notas
+                </h2>
+                <div class="grades-container" id="gradesContainer">
+                    <div class="empty-state">
+                        <div class="icon">📝</div>
+                        <h3>Nenhuma nota ainda</h3>
+                        <p>Complete os testes para ver suas notas.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Install Banner -->
+    <div class="install-banner" id="installBanner">
+        <p>📱 Instale o app para melhor experiência!</p>
+        <button onclick="installApp()">Instalar</button>
+        <button class="dismiss" onclick="dismissInstall()">Depois</button>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/app.js"></script>
+</body>
+</html>

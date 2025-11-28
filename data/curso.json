@@ -1,0 +1,58 @@
+{
+  "titulo": "Español Virtual",
+  "subtitulo": "Aprenda espanhol do básico ao avançado",
+  "totalAulas": 200,
+  "niveis": [
+    {
+      "id": "basico",
+      "nome": "Básico",
+      "codigo": "A1-A2",
+      "cor": "#d8f3dc",
+      "aulas": "1-80",
+      "modulos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "id": "intermediario", 
+      "nome": "Intermediário",
+      "codigo": "B1-B2",
+      "cor": "#fff3b0",
+      "aulas": "81-144",
+      "modulos": [11, 12, 13, 14, 15, 16, 17, 18]
+    },
+    {
+      "id": "avancado",
+      "nome": "Avançado", 
+      "codigo": "C1-C2",
+      "cor": "#ffccd5",
+      "aulas": "145-200",
+      "modulos": [19, 20, 21, 22, 23, 24, 25]
+    }
+  ],
+  "modulos": [
+    { "id": 1, "nome": "Fundamentos do Espanhol", "aulas": [1, 2, 3, 4, 5, 6, 7, 8], "nivel": "basico" },
+    { "id": 2, "nome": "Números e Tempo", "aulas": [9, 10, 11, 12, 13, 14, 15, 16], "nivel": "basico" },
+    { "id": 3, "nome": "Artigos e Substantivos", "aulas": [17, 18, 19, 20, 21, 22, 23, 24], "nivel": "basico" },
+    { "id": 4, "nome": "Pronomes e Adjetivos", "aulas": [25, 26, 27, 28, 29, 30, 31, 32], "nivel": "basico" },
+    { "id": 5, "nome": "Verbos SER e ESTAR", "aulas": [33, 34, 35, 36, 37, 38, 39, 40], "nivel": "basico" },
+    { "id": 6, "nome": "Presente do Indicativo", "aulas": [41, 42, 43, 44, 45, 46, 47, 48], "nivel": "basico" },
+    { "id": 7, "nome": "Verbos Irregulares Comuns", "aulas": [49, 50, 51, 52, 53, 54, 55, 56], "nivel": "basico" },
+    { "id": 8, "nome": "Perguntas e Negações", "aulas": [57, 58, 59, 60, 61, 62, 63, 64], "nivel": "basico" },
+    { "id": 9, "nome": "Preposições e Advérbios", "aulas": [65, 66, 67, 68, 69, 70, 71, 72], "nivel": "basico" },
+    { "id": 10, "nome": "Situações do Cotidiano", "aulas": [73, 74, 75, 76, 77, 78, 79, 80], "nivel": "basico" },
+    { "id": 11, "nome": "Pretérito Indefinido", "aulas": [81, 82, 83, 84, 85, 86, 87, 88], "nivel": "intermediario" },
+    { "id": 12, "nome": "Pretérito Imperfecto", "aulas": [89, 90, 91, 92, 93, 94, 95, 96], "nivel": "intermediario" },
+    { "id": 13, "nome": "Futuro e Condicional", "aulas": [97, 98, 99, 100, 101, 102, 103, 104], "nivel": "intermediario" },
+    { "id": 14, "nome": "Subjuntivo Presente", "aulas": [105, 106, 107, 108, 109, 110, 111, 112], "nivel": "intermediario" },
+    { "id": 15, "nome": "Pronomes Complemento", "aulas": [113, 114, 115, 116, 117, 118, 119, 120], "nivel": "intermediario" },
+    { "id": 16, "nome": "Orações Compostas", "aulas": [121, 122, 123, 124, 125, 126, 127, 128], "nivel": "intermediario" },
+    { "id": 17, "nome": "Expressões Idiomáticas", "aulas": [129, 130, 131, 132, 133, 134, 135, 136], "nivel": "intermediario" },
+    { "id": 18, "nome": "Comunicação Profissional", "aulas": [137, 138, 139, 140, 141, 142, 143, 144], "nivel": "intermediario" },
+    { "id": 19, "nome": "Subjuntivo Avançado", "aulas": [145, 146, 147, 148, 149, 150, 151, 152], "nivel": "avancado" },
+    { "id": 20, "nome": "Registros de Linguagem", "aulas": [153, 154, 155, 156, 157, 158, 159, 160], "nivel": "avancado" },
+    { "id": 21, "nome": "Espanhol para Negócios", "aulas": [161, 162, 163, 164, 165, 166, 167, 168], "nivel": "avancado" },
+    { "id": 22, "nome": "Literatura Hispânica", "aulas": [169, 170, 171, 172, 173, 174, 175, 176], "nivel": "avancado" },
+    { "id": 23, "nome": "Variantes do Espanhol", "aulas": [177, 178, 179, 180, 181, 182, 183, 184], "nivel": "avancado" },
+    { "id": 24, "nome": "Debates e Argumentação", "aulas": [185, 186, 187, 188, 189, 190, 191, 192], "nivel": "avancado" },
+    { "id": 25, "nome": "Fluência e Domínio", "aulas": [193, 194, 195, 196, 197, 198, 199, 200], "nivel": "avancado" }
+  ]
+}

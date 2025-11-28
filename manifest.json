@@ -1,0 +1,27 @@
+{
+  "name": "Español Virtual - Escola de Idiomas",
+  "short_name": "Español Virtual",
+  "description": "Aprenda espanhol do básico ao avançado com 200 aulas em áudio",
+  "start_url": "/espanol-virtual/",
+  "scope": "/espanol-virtual/",
+  "display": "standalone",
+  "background_color": "#1a4d2e",
+  "theme_color": "#1a4d2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "language"],
+  "lang": "pt-BR"
+}
