@@ -1,0 +1,282 @@
+{
+  "id": 92,
+  "titulo": "Describiendo el Pasado",
+  "modulo": {
+    "numero": 12,
+    "nome": "Pretérito Imperfecto"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Describiendo el Pasado",
+      "texto": "En esta lección estudiaremos Describiendo el Pasado. Es un tema importante para tu aprendizaje del español."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Describiendo el Pasado",
+      "texto": "**Puntos principales de Describiendo el Pasado:**\n\nEste tema te ayudará a comunicarte mejor en español. Presta atención a los ejemplos y practica mucho.",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Describiendo el Pasado.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Hice' es pretérito de:",
+      "opcoes": [
+        "Ser",
+        "Hacer",
+        "Ir",
+        "Tener"
+      ],
+      "correta": 1,
+      "explicacao": "Hacer → Hice"
+    },
+    {
+      "pergunta": "'Tuve' es pretérito de:",
+      "opcoes": [
+        "Ser",
+        "Ir",
+        "Estar",
+        "Tener"
+      ],
+      "correta": 3,
+      "explicacao": "Tener → Tuve"
+    },
+    {
+      "pergunta": "'Vine' es pretérito de:",
+      "opcoes": [
+        "Ver",
+        "Vivir",
+        "Venir",
+        "Volar"
+      ],
+      "correta": 2,
+      "explicacao": "Venir → Vine"
+    },
+    {
+      "pergunta": "'Hacía sol' describe:",
+      "opcoes": [
+        "Acción puntual",
+        "Tiempo atmosférico pasado",
+        "Acción futura",
+        "Orden"
+      ],
+      "correta": 1,
+      "explicacao": "Descripción = imperfecto"
+    },
+    {
+      "pergunta": "'Cuando era niño' - 'era' es:",
+      "opcoes": [
+        "Presente",
+        "Pretérito indefinido",
+        "Pretérito imperfecto",
+        "Futuro"
+      ],
+      "correta": 2,
+      "explicacao": "Era = imperfecto (descripción)"
+    },
+    {
+      "pergunta": "'Fui' es pretérito de:",
+      "opcoes": [
+        "Ser e Ir",
+        "Solo Ser",
+        "Solo Ir",
+        "Hacer"
+      ],
+      "correta": 0,
+      "explicacao": "Fui = Ser e Ir"
+    },
+    {
+      "pergunta": "'Ayer' indica uso de:",
+      "opcoes": [
+        "Presente",
+        "Indefinido",
+        "Imperfecto",
+        "Futuro"
+      ],
+      "correta": 1,
+      "explicacao": "Ayer + indefinido"
+    },
+    {
+      "pergunta": "'Puse' es pretérito de:",
+      "opcoes": [
+        "Poder",
+        "Poner",
+        "Partir",
+        "Pedir"
+      ],
+      "correta": 1,
+      "explicacao": "Poner → Puse"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Describiendo el Pasado.",
+      "respostaModelo": "En esta lección aprendí sobre Describiendo el Pasado. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Describiendo el Pasado en español?",
+      "respostaModelo": "Describiendo el Pasado es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Describiendo el Pasado. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 92!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Describiendo el Pasado.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

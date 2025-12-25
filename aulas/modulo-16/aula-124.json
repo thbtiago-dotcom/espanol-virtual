@@ -1,0 +1,315 @@
+{
+  "id": 124,
+  "titulo": "Oraciones Condicionales II",
+  "modulo": {
+    "numero": 16,
+    "nome": "Oraciones Compuestas"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Oraciones Condicionales II",
+      "texto": "El condicional expresa acciones hipotéticas, consejos educados y deseos."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Oraciones Condicionales II",
+      "texto": "**Formación (infinitivo + terminación):**\nhablaría, hablarías, hablaría, hablaríamos, hablaríais, hablarían\n\n**Irregulares (mismos que futuro):**\n• tener → tendría\n• poder → podría\n• hacer → haría\n\n**Usos:**\n• Hipótesis: Con dinero, viajaría\n• Cortesía: ¿Podría ayudarme?\n• Consejos: Yo que tú, estudiaría más",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Oraciones Condicionales II.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Ser",
+      "pt": "Ser",
+      "pron": "[sér]",
+      "exemplo": "Soy brasileño.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Estar",
+      "pt": "Estar",
+      "pron": "[estár]",
+      "exemplo": "Estoy bien.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Tener",
+      "pt": "Ter",
+      "pron": "[tenér]",
+      "exemplo": "Tengo 25 años.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Ir",
+      "pt": "Ir",
+      "pron": "[ír]",
+      "exemplo": "Voy a casa.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hacer",
+      "pt": "Fazer",
+      "pron": "[asér]",
+      "exemplo": "Hago ejercicio.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "-AR: -o, -as, -a, -amos, -áis, -an",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "hablo, hablas, habla..."
+      ],
+      "dica": "Memoriza el patrón"
+    },
+    {
+      "regra": "-ER: -o, -es, -e, -emos, -éis, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "como, comes, come..."
+      ],
+      "dica": "E en lugar de A"
+    },
+    {
+      "regra": "-IR: -o, -es, -e, -imos, -ís, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "vivo, vives, vive..."
+      ],
+      "dica": "Similar a -ER"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "La terminación de 'yo' en condicional es:",
+      "opcoes": [
+        "-ÍA",
+        "-ÍAS",
+        "-ÍAMOS",
+        "-ÍAN"
+      ],
+      "correta": 0,
+      "explicacao": "Yo hablar-ÍA"
+    },
+    {
+      "pergunta": "'Pondría' es condicional de:",
+      "opcoes": [
+        "Poder",
+        "Poner",
+        "Partir",
+        "Pedir"
+      ],
+      "correta": 1,
+      "explicacao": "Poner → Pondría"
+    },
+    {
+      "pergunta": "El condicional expresa:",
+      "opcoes": [
+        "Certeza",
+        "Hipótesis/cortesía",
+        "Pasado real",
+        "Orden"
+      ],
+      "correta": 1,
+      "explicacao": "Hipótesis y cortesía"
+    },
+    {
+      "pergunta": "'¿Te importaría...?' es:",
+      "opcoes": [
+        "Grosero",
+        "Muy cortés",
+        "Informal",
+        "Neutro"
+      ],
+      "correta": 1,
+      "explicacao": "Máxima cortesía"
+    },
+    {
+      "pergunta": "'Tendría' es condicional de:",
+      "opcoes": [
+        "Tener",
+        "Tender",
+        "Tentar",
+        "Tendir"
+      ],
+      "correta": 0,
+      "explicacao": "Tener → Tendría"
+    },
+    {
+      "pergunta": "'Si tuviera dinero, viajaría' - 'viajaría' es:",
+      "opcoes": [
+        "Presente",
+        "Pasado",
+        "Futuro",
+        "Condicional"
+      ],
+      "correta": 3,
+      "explicacao": "Condicional en hipótesis"
+    },
+    {
+      "pergunta": "'Diría' es condicional de:",
+      "opcoes": [
+        "Dar",
+        "Decir",
+        "Dirigir",
+        "Dormir"
+      ],
+      "correta": 1,
+      "explicacao": "Decir → Diría"
+    },
+    {
+      "pergunta": "'Sabría' es condicional de:",
+      "opcoes": [
+        "Ser",
+        "Saber",
+        "Salir",
+        "Seguir"
+      ],
+      "correta": 1,
+      "explicacao": "Saber → Sabría"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Oraciones Condicionales II.",
+      "respostaModelo": "En esta lección aprendí sobre Oraciones Condicionales II. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Oraciones Condicionales II en español?",
+      "respostaModelo": "Oraciones Condicionales II es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Oraciones Condicionales II. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 124!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Oraciones Condicionales II.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

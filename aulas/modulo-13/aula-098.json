@@ -1,0 +1,315 @@
+{
+  "id": 98,
+  "titulo": "Futuro Simple Irregular",
+  "modulo": {
+    "numero": 13,
+    "nome": "Futuro y Condicional"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Futuro Simple Irregular",
+      "texto": "Muchos verbos comunes son irregulares. Es importante memorizarlos porque se usan constantemente."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Futuro Simple Irregular",
+      "texto": "**IR:** voy, vas, va, vamos, vais, van\n**TENER:** tengo, tienes, tiene...\n**HACER:** hago, haces, hace...\n**PODER:** puedo, puedes, puede...\n**QUERER:** quiero, quieres, quiere...\n\n**Cambios vocálicos:**\n• E>IE: quiero, quieres, quiere\n• O>UE: puedo, puedes, puede\n• E>I: pido, pides, pide",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Futuro Simple Irregular.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Ser",
+      "pt": "Ser",
+      "pron": "[sér]",
+      "exemplo": "Soy brasileño.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Estar",
+      "pt": "Estar",
+      "pron": "[estár]",
+      "exemplo": "Estoy bien.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Tener",
+      "pt": "Ter",
+      "pron": "[tenér]",
+      "exemplo": "Tengo 25 años.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Ir",
+      "pt": "Ir",
+      "pron": "[ír]",
+      "exemplo": "Voy a casa.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hacer",
+      "pt": "Fazer",
+      "pron": "[asér]",
+      "exemplo": "Hago ejercicio.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "-AR: -o, -as, -a, -amos, -áis, -an",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "hablo, hablas, habla..."
+      ],
+      "dica": "Memoriza el patrón"
+    },
+    {
+      "regra": "-ER: -o, -es, -e, -emos, -éis, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "como, comes, come..."
+      ],
+      "dica": "E en lugar de A"
+    },
+    {
+      "regra": "-IR: -o, -es, -e, -imos, -ís, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "vivo, vives, vive..."
+      ],
+      "dica": "Similar a -ER"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Oigo' es forma irregular de:",
+      "opcoes": [
+        "Oír",
+        "Ir",
+        "Hacer",
+        "Haber"
+      ],
+      "correta": 0,
+      "explicacao": "Oír → oigo"
+    },
+    {
+      "pergunta": "'Yo sé' es forma de:",
+      "opcoes": [
+        "Ser",
+        "Saber",
+        "Seguir",
+        "Sentir"
+      ],
+      "correta": 1,
+      "explicacao": "Saber → sé (yo)"
+    },
+    {
+      "pergunta": "'Puedo' tiene cambio:",
+      "opcoes": [
+        "O→UE",
+        "E→IE",
+        "E→I",
+        "U→UE"
+      ],
+      "correta": 0,
+      "explicacao": "Poder: o→ue"
+    },
+    {
+      "pergunta": "'Vengo' es forma irregular de:",
+      "opcoes": [
+        "Vender",
+        "Venir",
+        "Ver",
+        "Velar"
+      ],
+      "correta": 1,
+      "explicacao": "Venir → vengo"
+    },
+    {
+      "pergunta": "'Salgo' es forma irregular de:",
+      "opcoes": [
+        "Saber",
+        "Salir",
+        "Seguir",
+        "Sentir"
+      ],
+      "correta": 1,
+      "explicacao": "Salir → salgo"
+    },
+    {
+      "pergunta": "'Juego' tiene cambio:",
+      "opcoes": [
+        "O→UE",
+        "E→IE",
+        "U→UE",
+        "I→IE"
+      ],
+      "correta": 2,
+      "explicacao": "Jugar: u→ue"
+    },
+    {
+      "pergunta": "'Yo hago' viene de:",
+      "opcoes": [
+        "Hager",
+        "Hacer",
+        "Hagir",
+        "Hacio"
+      ],
+      "correta": 1,
+      "explicacao": "Hacer → hago"
+    },
+    {
+      "pergunta": "'Quiero' tiene cambio:",
+      "opcoes": [
+        "O→UE",
+        "E→IE",
+        "E→I",
+        "U→UE"
+      ],
+      "correta": 1,
+      "explicacao": "Querer: e→ie"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Futuro Simple Irregular.",
+      "respostaModelo": "En esta lección aprendí sobre Futuro Simple Irregular. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Futuro Simple Irregular en español?",
+      "respostaModelo": "Futuro Simple Irregular es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    },
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Futuro Simple Irregular. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 98!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Futuro Simple Irregular.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

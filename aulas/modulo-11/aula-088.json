@@ -1,0 +1,315 @@
+{
+  "id": 88,
+  "titulo": "Revisión: Pretérito Indefinido",
+  "modulo": {
+    "numero": 11,
+    "nome": "Pretérito Indefinido"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Revisión: Pretérito Indefinido",
+      "texto": "El pretérito indefinido expresa acciones completadas en el pasado. Se usa con marcadores como 'ayer', 'el año pasado', etc."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Revisión: Pretérito Indefinido",
+      "texto": "**-AR (hablar):**\nhablé, hablaste, habló, hablamos, hablasteis, hablaron\n\n**-ER/-IR (comer/vivir):**\ncomí, comiste, comió, comimos, comisteis, comieron\n\n**Irregulares importantes:**\n• SER/IR: fui, fuiste, fue...\n• ESTAR: estuve, estuviste...\n• TENER: tuve, tuviste...\n• HACER: hice, hiciste...",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Revisión: Pretérito Indefinido.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Ser",
+      "pt": "Ser",
+      "pron": "[sér]",
+      "exemplo": "Soy brasileño.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Estar",
+      "pt": "Estar",
+      "pron": "[estár]",
+      "exemplo": "Estoy bien.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Tener",
+      "pt": "Ter",
+      "pron": "[tenér]",
+      "exemplo": "Tengo 25 años.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Ir",
+      "pt": "Ir",
+      "pron": "[ír]",
+      "exemplo": "Voy a casa.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hacer",
+      "pt": "Fazer",
+      "pron": "[asér]",
+      "exemplo": "Hago ejercicio.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "-AR: -o, -as, -a, -amos, -áis, -an",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "hablo, hablas, habla..."
+      ],
+      "dica": "Memoriza el patrón"
+    },
+    {
+      "regra": "-ER: -o, -es, -e, -emos, -éis, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "como, comes, come..."
+      ],
+      "dica": "E en lugar de A"
+    },
+    {
+      "regra": "-IR: -o, -es, -e, -imos, -ís, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "vivo, vives, vive..."
+      ],
+      "dica": "Similar a -ER"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Hice' es pretérito de:",
+      "opcoes": [
+        "Ser",
+        "Hacer",
+        "Ir",
+        "Tener"
+      ],
+      "correta": 1,
+      "explicacao": "Hacer → Hice"
+    },
+    {
+      "pergunta": "'Tuve' es pretérito de:",
+      "opcoes": [
+        "Ser",
+        "Ir",
+        "Estar",
+        "Tener"
+      ],
+      "correta": 3,
+      "explicacao": "Tener → Tuve"
+    },
+    {
+      "pergunta": "'Vine' es pretérito de:",
+      "opcoes": [
+        "Ver",
+        "Vivir",
+        "Venir",
+        "Volar"
+      ],
+      "correta": 2,
+      "explicacao": "Venir → Vine"
+    },
+    {
+      "pergunta": "'Hacía sol' describe:",
+      "opcoes": [
+        "Acción puntual",
+        "Tiempo atmosférico pasado",
+        "Acción futura",
+        "Orden"
+      ],
+      "correta": 1,
+      "explicacao": "Descripción = imperfecto"
+    },
+    {
+      "pergunta": "'Cuando era niño' - 'era' es:",
+      "opcoes": [
+        "Presente",
+        "Pretérito indefinido",
+        "Pretérito imperfecto",
+        "Futuro"
+      ],
+      "correta": 2,
+      "explicacao": "Era = imperfecto (descripción)"
+    },
+    {
+      "pergunta": "'Fui' es pretérito de:",
+      "opcoes": [
+        "Ser e Ir",
+        "Solo Ser",
+        "Solo Ir",
+        "Hacer"
+      ],
+      "correta": 0,
+      "explicacao": "Fui = Ser e Ir"
+    },
+    {
+      "pergunta": "'Ayer' indica uso de:",
+      "opcoes": [
+        "Presente",
+        "Indefinido",
+        "Imperfecto",
+        "Futuro"
+      ],
+      "correta": 1,
+      "explicacao": "Ayer + indefinido"
+    },
+    {
+      "pergunta": "'Puse' es pretérito de:",
+      "opcoes": [
+        "Poder",
+        "Poner",
+        "Partir",
+        "Pedir"
+      ],
+      "correta": 1,
+      "explicacao": "Poner → Puse"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Revisión: Pretérito Indefinido.",
+      "respostaModelo": "En esta lección aprendí sobre Revisión: Pretérito Indefinido. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Revisión: Pretérito Indefinido en español?",
+      "respostaModelo": "Revisión: Pretérito Indefinido es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    },
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Revisión: Pretérito Indefinido. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 88!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Revisión: Pretérito Indefinido.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

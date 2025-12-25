@@ -1,0 +1,282 @@
+{
+  "id": 120,
+  "titulo": "Revisión: Pronombres Complemento",
+  "modulo": {
+    "numero": 15,
+    "nome": "Pronombres Complemento"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Revisión: Pronombres Complemento",
+      "texto": "Los pronombres personales sustituyen al nombre. En español, a menudo se omiten porque el verbo indica la persona."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Revisión: Pronombres Complemento",
+      "texto": "**Pronombres:**\nyo, tú, él/ella/usted\nnosotros/as, vosotros/as, ellos/ellas/ustedes\n\n**Omisión del pronombre:**\n• \"Soy brasileño\" (no necesita 'yo')\n• El verbo indica la persona\n\n**TÚ vs USTED:**\nFormal = usted (3ª persona)\nInformal = tú (2ª persona)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Revisión: Pronombres Complemento.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "El plural de 'tú' en Latinoamérica es:",
+      "opcoes": [
+        "Ustedes",
+        "Vosotros",
+        "Ellos",
+        "Túes"
+      ],
+      "correta": 0,
+      "explicacao": "Tú → Ustedes (LA)"
+    },
+    {
+      "pergunta": "El pronombre reflexivo de 'yo' es:",
+      "opcoes": [
+        "Me",
+        "Te",
+        "Se",
+        "Nos"
+      ],
+      "correta": 0,
+      "explicacao": "Yo → me"
+    },
+    {
+      "pergunta": "El pronombre 'lo' es:",
+      "opcoes": [
+        "Sujeto",
+        "Objeto directo",
+        "Objeto indirecto",
+        "Reflexivo"
+      ],
+      "correta": 1,
+      "explicacao": "Lo = objeto directo masc."
+    },
+    {
+      "pergunta": "'Nos' es pronombre de:",
+      "opcoes": [
+        "Yo",
+        "Tú",
+        "Nosotros",
+        "Ellos"
+      ],
+      "correta": 2,
+      "explicacao": "Nos = nosotros"
+    },
+    {
+      "pergunta": "El plural de 'tú' en Latinoamérica es:",
+      "opcoes": [
+        "Ustedes",
+        "Vosotros",
+        "Ellos",
+        "Túes"
+      ],
+      "correta": 0,
+      "explicacao": "Tú → Ustedes (LA)"
+    },
+    {
+      "pergunta": "El pronombre reflexivo de 'yo' es:",
+      "opcoes": [
+        "Me",
+        "Te",
+        "Se",
+        "Nos"
+      ],
+      "correta": 0,
+      "explicacao": "Yo → me"
+    },
+    {
+      "pergunta": "El pronombre 'lo' es:",
+      "opcoes": [
+        "Sujeto",
+        "Objeto directo",
+        "Objeto indirecto",
+        "Reflexivo"
+      ],
+      "correta": 1,
+      "explicacao": "Lo = objeto directo masc."
+    },
+    {
+      "pergunta": "'Nos' es pronombre de:",
+      "opcoes": [
+        "Yo",
+        "Tú",
+        "Nosotros",
+        "Ellos"
+      ],
+      "correta": 2,
+      "explicacao": "Nos = nosotros"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Revisión: Pronombres Complemento.",
+      "respostaModelo": "En esta lección aprendí sobre Revisión: Pronombres Complemento. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Revisión: Pronombres Complemento en español?",
+      "respostaModelo": "Revisión: Pronombres Complemento es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Revisión: Pronombres Complemento. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 120!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Revisión: Pronombres Complemento.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

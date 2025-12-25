@@ -1,0 +1,315 @@
+{
+  "id": 150,
+  "titulo": "Subjuntivo Pluscuamperfecto",
+  "modulo": {
+    "numero": 19,
+    "nome": "Subjuntivo Avanzado"
+  },
+  "nivel": "Avanzado (C1-C2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Subjuntivo Pluscuamperfecto",
+      "texto": "El subjuntivo expresa deseos, emociones, duda e influencia. Es uno de los aspectos más complejos del español."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Subjuntivo Pluscuamperfecto",
+      "texto": "**Formación (-AR):**\nhable, hables, hable, hablemos, habléis, hablen\n\n**Formación (-ER/-IR):**\ncoma, comas, coma, comamos, comáis, coman\n\n**Usos:**\n• Deseos: Quiero que vengas\n• Emociones: Me alegra que estés bien\n• Duda: No creo que sepa\n• Influencia: Te pido que estudies",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Subjuntivo Pluscuamperfecto.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Ser",
+      "pt": "Ser",
+      "pron": "[sér]",
+      "exemplo": "Soy brasileño.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Estar",
+      "pt": "Estar",
+      "pron": "[estár]",
+      "exemplo": "Estoy bien.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Tener",
+      "pt": "Ter",
+      "pron": "[tenér]",
+      "exemplo": "Tengo 25 años.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Ir",
+      "pt": "Ir",
+      "pron": "[ír]",
+      "exemplo": "Voy a casa.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hacer",
+      "pt": "Fazer",
+      "pron": "[asér]",
+      "exemplo": "Hago ejercicio.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "-AR: -o, -as, -a, -amos, -áis, -an",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "hablo, hablas, habla..."
+      ],
+      "dica": "Memoriza el patrón"
+    },
+    {
+      "regra": "-ER: -o, -es, -e, -emos, -éis, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "como, comes, come..."
+      ],
+      "dica": "E en lugar de A"
+    },
+    {
+      "regra": "-IR: -o, -es, -e, -imos, -ís, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "vivo, vives, vive..."
+      ],
+      "dica": "Similar a -ER"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Dudo que venga' usa subjuntivo porque:",
+      "opcoes": [
+        "Es certeza",
+        "Es duda",
+        "Es pasado",
+        "Es orden"
+      ],
+      "correta": 1,
+      "explicacao": "Dudar + que + subjuntivo"
+    },
+    {
+      "pergunta": "'Aunque llueva, iré' - 'llueva' indica:",
+      "opcoes": [
+        "Certeza",
+        "Hipótesis",
+        "Pasado",
+        "Futuro"
+      ],
+      "correta": 1,
+      "explicacao": "Aunque + subjuntivo = hipótesis"
+    },
+    {
+      "pergunta": "'Haya' es subjuntivo de:",
+      "opcoes": [
+        "Hacer",
+        "Haber",
+        "Ir",
+        "Ser"
+      ],
+      "correta": 1,
+      "explicacao": "Haber → haya"
+    },
+    {
+      "pergunta": "'No creo que sepa' - 'sepa' es subjuntivo de:",
+      "opcoes": [
+        "Ser",
+        "Saber",
+        "Salir",
+        "Seguir"
+      ],
+      "correta": 1,
+      "explicacao": "Saber → sepa"
+    },
+    {
+      "pergunta": "'Es importante que estudies' usa:",
+      "opcoes": [
+        "Indicativo",
+        "Subjuntivo",
+        "Infinitivo",
+        "Gerundio"
+      ],
+      "correta": 1,
+      "explicacao": "Expresión + que + subjuntivo"
+    },
+    {
+      "pergunta": "'Para que entiendas' - 'entiendas' expresa:",
+      "opcoes": [
+        "Certeza",
+        "Finalidad",
+        "Pasado",
+        "Orden"
+      ],
+      "correta": 1,
+      "explicacao": "Para que + subjuntivo = finalidad"
+    },
+    {
+      "pergunta": "'Espero que estés bien' usa subjuntivo porque:",
+      "opcoes": [
+        "Es pasado",
+        "Es deseo",
+        "Es certeza",
+        "Es futuro"
+      ],
+      "correta": 1,
+      "explicacao": "Esperar + que + subjuntivo"
+    },
+    {
+      "pergunta": "'Ojalá llueva' - 'llueva' es:",
+      "opcoes": [
+        "Indicativo",
+        "Subjuntivo",
+        "Imperativo",
+        "Infinitivo"
+      ],
+      "correta": 1,
+      "explicacao": "Ojalá + subjuntivo"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Subjuntivo Pluscuamperfecto.",
+      "respostaModelo": "En esta lección aprendí sobre Subjuntivo Pluscuamperfecto. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Subjuntivo Pluscuamperfecto en español?",
+      "respostaModelo": "Subjuntivo Pluscuamperfecto es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    },
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    },
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Subjuntivo Pluscuamperfecto. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 150!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Subjuntivo Pluscuamperfecto.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

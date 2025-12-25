@@ -1,0 +1,315 @@
+{
+  "id": 112,
+  "titulo": "Revisión: Subjuntivo Presente",
+  "modulo": {
+    "numero": 14,
+    "nome": "Subjuntivo Presente"
+  },
+  "nivel": "Intermedio (B1-B2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Revisión: Subjuntivo Presente",
+      "texto": "El presente de indicativo se usa para acciones habituales, verdades generales y acciones actuales."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Revisión: Subjuntivo Presente",
+      "texto": "**Verbos -AR (hablar):**\nhablo, hablas, habla, hablamos, habláis, hablan\n\n**Verbos -ER (comer):**\ncomo, comes, come, comemos, coméis, comen\n\n**Verbos -IR (vivir):**\nvivo, vives, vive, vivimos, vivís, viven\n\n**Usos:**\n• Rutinas: Trabajo todos los días\n• Verdades: El sol sale por el este",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Revisión: Subjuntivo Presente.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Ser",
+      "pt": "Ser",
+      "pron": "[sér]",
+      "exemplo": "Soy brasileño.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Estar",
+      "pt": "Estar",
+      "pron": "[estár]",
+      "exemplo": "Estoy bien.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Tener",
+      "pt": "Ter",
+      "pron": "[tenér]",
+      "exemplo": "Tengo 25 años.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Ir",
+      "pt": "Ir",
+      "pron": "[ír]",
+      "exemplo": "Voy a casa.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hacer",
+      "pt": "Fazer",
+      "pron": "[asér]",
+      "exemplo": "Hago ejercicio.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "-AR: -o, -as, -a, -amos, -áis, -an",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "hablo, hablas, habla..."
+      ],
+      "dica": "Memoriza el patrón"
+    },
+    {
+      "regra": "-ER: -o, -es, -e, -emos, -éis, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "como, comes, come..."
+      ],
+      "dica": "E en lugar de A"
+    },
+    {
+      "regra": "-IR: -o, -es, -e, -imos, -ís, -en",
+      "explicacao": "Terminaciones del presente.",
+      "exemplos": [
+        "vivo, vives, vive..."
+      ],
+      "dica": "Similar a -ER"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Ellos hablan' - terminación:",
+      "opcoes": [
+        "-O",
+        "-AS",
+        "-A",
+        "-AN"
+      ],
+      "correta": 3,
+      "explicacao": "Ellos habl-AN"
+    },
+    {
+      "pergunta": "El infinitivo de 'escribo' es:",
+      "opcoes": [
+        "Escribar",
+        "Escribir",
+        "Escriber",
+        "Escrivo"
+      ],
+      "correta": 1,
+      "explicacao": "Escribir"
+    },
+    {
+      "pergunta": "'Yo como' - comer es verbo:",
+      "opcoes": [
+        "-AR",
+        "-ER",
+        "-IR",
+        "Irregular"
+      ],
+      "correta": 1,
+      "explicacao": "Com-ER = -ER"
+    },
+    {
+      "pergunta": "En presente, verbos -ER y -IR son:",
+      "opcoes": [
+        "Iguales",
+        "Diferentes",
+        "Casi iguales",
+        "No existen"
+      ],
+      "correta": 2,
+      "explicacao": "Muy similares"
+    },
+    {
+      "pergunta": "'Bebemos' es conjugación de:",
+      "opcoes": [
+        "Beber (nosotros)",
+        "Beber (ellos)",
+        "Beber (yo)",
+        "Beber (tú)"
+      ],
+      "correta": 0,
+      "explicacao": "Nosotros bebemos"
+    },
+    {
+      "pergunta": "'Yo hablo' - hablo es verbo:",
+      "opcoes": [
+        "-AR",
+        "-ER",
+        "-IR",
+        "Irregular"
+      ],
+      "correta": 0,
+      "explicacao": "Habl-AR = -AR"
+    },
+    {
+      "pergunta": "La terminación de 'nosotros' para -AR es:",
+      "opcoes": [
+        "-O",
+        "-AS",
+        "-A",
+        "-AMOS"
+      ],
+      "correta": 3,
+      "explicacao": "Nosotros habl-AMOS"
+    },
+    {
+      "pergunta": "La raíz de 'caminar' es:",
+      "opcoes": [
+        "Camin-",
+        "Camina-",
+        "Cam-",
+        "Caminar"
+      ],
+      "correta": 0,
+      "explicacao": "Camin-ar"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Revisión: Subjuntivo Presente.",
+      "respostaModelo": "En esta lección aprendí sobre Revisión: Subjuntivo Presente. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Revisión: Subjuntivo Presente en español?",
+      "respostaModelo": "Revisión: Subjuntivo Presente es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Revisión: Subjuntivo Presente. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 112!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Revisión: Subjuntivo Presente.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}
