@@ -1,0 +1,282 @@
+{
+  "id": 188,
+  "titulo": "Debates Formales",
+  "modulo": {
+    "numero": 24,
+    "nome": "Debates y Argumentación"
+  },
+  "nivel": "Avanzado (C1-C2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Debates Formales",
+      "texto": "En esta lección estudiaremos Debates Formales. Es un tema importante para tu aprendizaje del español."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Debates Formales",
+      "texto": "**Puntos principales de Debates Formales:**\n\nEste tema te ayudará a comunicarte mejor en español. Presta atención a los ejemplos y practica mucho.",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Debates Formales.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Cabe destacar' significa:",
+      "opcoes": [
+        "No es importante",
+        "Es importante señalar",
+        "Es falso",
+        "Es dudoso"
+      ],
+      "correta": 1,
+      "explicacao": "Enfatizar algo importante"
+    },
+    {
+      "pergunta": "'Además' es conector de:",
+      "opcoes": [
+        "Causa",
+        "Consecuencia",
+        "Contraste",
+        "Adición"
+      ],
+      "correta": 3,
+      "explicacao": "Además = adición"
+    },
+    {
+      "pergunta": "'En conclusión' se usa para:",
+      "opcoes": [
+        "Empezar",
+        "Desarrollar",
+        "Terminar/resumir",
+        "Preguntar"
+      ],
+      "correta": 2,
+      "explicacao": "Concluir el argumento"
+    },
+    {
+      "pergunta": "'A pesar de' introduce:",
+      "opcoes": [
+        "Acuerdo",
+        "Concesión/contraste",
+        "Causa",
+        "Consecuencia"
+      ],
+      "correta": 1,
+      "explicacao": "A pesar de = aunque"
+    },
+    {
+      "pergunta": "'Cabe destacar' significa:",
+      "opcoes": [
+        "No es importante",
+        "Es importante señalar",
+        "Es falso",
+        "Es dudoso"
+      ],
+      "correta": 1,
+      "explicacao": "Enfatizar algo importante"
+    },
+    {
+      "pergunta": "'Además' es conector de:",
+      "opcoes": [
+        "Causa",
+        "Consecuencia",
+        "Contraste",
+        "Adición"
+      ],
+      "correta": 3,
+      "explicacao": "Además = adición"
+    },
+    {
+      "pergunta": "'En conclusión' se usa para:",
+      "opcoes": [
+        "Empezar",
+        "Desarrollar",
+        "Terminar/resumir",
+        "Preguntar"
+      ],
+      "correta": 2,
+      "explicacao": "Concluir el argumento"
+    },
+    {
+      "pergunta": "'A pesar de' introduce:",
+      "opcoes": [
+        "Acuerdo",
+        "Concesión/contraste",
+        "Causa",
+        "Consecuencia"
+      ],
+      "correta": 1,
+      "explicacao": "A pesar de = aunque"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Debates Formales.",
+      "respostaModelo": "En esta lección aprendí sobre Debates Formales. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Debates Formales en español?",
+      "respostaModelo": "Debates Formales es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Debates Formales. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 188!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Debates Formales.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

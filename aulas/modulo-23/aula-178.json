@@ -1,0 +1,282 @@
+{
+  "id": 178,
+  "titulo": "Español de México",
+  "modulo": {
+    "numero": 23,
+    "nome": "Variantes del Español"
+  },
+  "nivel": "Avanzado (C1-C2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Español de México",
+      "texto": "El español tiene variantes regionales en vocabulario, pronunciación y gramática. Todas son correctas."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Español de México",
+      "texto": "**España vs Latinoamérica:**\n• coche / carro\n• ordenador / computadora\n• móvil / celular\n• vale / bueno\n\n**Argentina:**\n• vos + voseo\n• che (interjección)\n• LL = SH: calle [kashe]\n\n**México:**\n• ¿mande? = ¿cómo?\n• órale, ándale\n• ahorita (ahora mismo)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Español de México.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "En Argentina, LL suena como:",
+      "opcoes": [
+        "Y normal",
+        "SH/ZH",
+        "L doble",
+        "Muda"
+      ],
+      "correta": 1,
+      "explicacao": "LL = sh en Argentina"
+    },
+    {
+      "pergunta": "'Coger' en España significa:",
+      "opcoes": [
+        "Palabra vulgar",
+        "Tomar/agarrar",
+        "Correr",
+        "Saltar"
+      ],
+      "correta": 1,
+      "explicacao": "España: coger = tomar"
+    },
+    {
+      "pergunta": "'Bacán' es típico de:",
+      "opcoes": [
+        "España",
+        "México",
+        "Perú/Chile",
+        "Cuba"
+      ],
+      "correta": 2,
+      "explicacao": "Bacán = genial (Andes)"
+    },
+    {
+      "pergunta": "El voseo es típico de:",
+      "opcoes": [
+        "España",
+        "Argentina/Uruguay",
+        "México",
+        "Cuba"
+      ],
+      "correta": 1,
+      "explicacao": "Vos = Argentina/Uruguay"
+    },
+    {
+      "pergunta": "En Argentina, LL suena como:",
+      "opcoes": [
+        "Y normal",
+        "SH/ZH",
+        "L doble",
+        "Muda"
+      ],
+      "correta": 1,
+      "explicacao": "LL = sh en Argentina"
+    },
+    {
+      "pergunta": "'Coger' en España significa:",
+      "opcoes": [
+        "Palabra vulgar",
+        "Tomar/agarrar",
+        "Correr",
+        "Saltar"
+      ],
+      "correta": 1,
+      "explicacao": "España: coger = tomar"
+    },
+    {
+      "pergunta": "'Bacán' es típico de:",
+      "opcoes": [
+        "España",
+        "México",
+        "Perú/Chile",
+        "Cuba"
+      ],
+      "correta": 2,
+      "explicacao": "Bacán = genial (Andes)"
+    },
+    {
+      "pergunta": "El voseo es típico de:",
+      "opcoes": [
+        "España",
+        "Argentina/Uruguay",
+        "México",
+        "Cuba"
+      ],
+      "correta": 1,
+      "explicacao": "Vos = Argentina/Uruguay"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Español de México.",
+      "respostaModelo": "En esta lección aprendí sobre Español de México. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Español de México en español?",
+      "respostaModelo": "Español de México es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Español de México. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 178!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Español de México.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}
