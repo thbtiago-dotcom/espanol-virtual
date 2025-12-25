@@ -1,0 +1,317 @@
+{
+  "id": 19,
+  "titulo": "Género de los Sustantivos",
+  "modulo": {
+    "numero": 3,
+    "nome": "Artículos y Sustantivos"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Género de los Sustantivos",
+      "texto": "En español, todos los sustantivos tienen género: masculino o femenino. Hay reglas generales pero también excepciones."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Género de los Sustantivos",
+      "texto": "**Reglas generales:**\n• -O = masculino (libro, carro)\n• -A = femenino (casa, mesa)\n\n**Excepciones comunes:**\n• el día, el mapa, el problema\n• la mano, la foto, la moto\n\n**Diferentes del portugués:**\n• ES: la leche / PT: o leite\n• ES: el árbol / PT: a árvore",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Género de los Sustantivos.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "El",
+      "pt": "O",
+      "pron": "[el]",
+      "exemplo": "El libro es nuevo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "La",
+      "pt": "A",
+      "pron": "[la]",
+      "exemplo": "La casa es grande.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Un",
+      "pt": "Um",
+      "pron": "[un]",
+      "exemplo": "Un carro rojo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Una",
+      "pt": "Uma",
+      "pron": "[úna]",
+      "exemplo": "Una mesa bonita.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Los",
+      "pt": "Os",
+      "pron": "[los]",
+      "exemplo": "Los libros están aquí.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "Generalmente, palabras en -O son:",
+      "opcoes": [
+        "Femeninas",
+        "Masculinas",
+        "Neutras",
+        "Variables"
+      ],
+      "correta": 1,
+      "explicacao": "-O = masculino generalmente"
+    },
+    {
+      "pergunta": "Generalmente, palabras en -A son:",
+      "opcoes": [
+        "Femeninas",
+        "Masculinas",
+        "Neutras",
+        "Variables"
+      ],
+      "correta": 0,
+      "explicacao": "-A = femenino generalmente"
+    },
+    {
+      "pergunta": "'El día' es excepción porque:",
+      "opcoes": [
+        "Termina en -A pero es masculino",
+        "Termina en -O pero es femenino",
+        "Es neutro",
+        "Cambia de género"
+      ],
+      "correta": 0,
+      "explicacao": "Día: -A pero masculino"
+    },
+    {
+      "pergunta": "'La mano' es excepción porque:",
+      "opcoes": [
+        "Termina en -A pero es masculino",
+        "Termina en -O pero es femenino",
+        "Es neutro",
+        "Cambia de género"
+      ],
+      "correta": 1,
+      "explicacao": "Mano: -O pero femenino"
+    },
+    {
+      "pergunta": "'El problema' es:",
+      "opcoes": [
+        "Femenino",
+        "Masculino",
+        "Neutro",
+        "Variable"
+      ],
+      "correta": 1,
+      "explicacao": "Problema: -A pero masculino"
+    },
+    {
+      "pergunta": "'La foto' viene de:",
+      "opcoes": [
+        "Fotografía (femenino)",
+        "Fotografo (masculino)",
+        "Es neutro",
+        "No tiene origen"
+      ],
+      "correta": 0,
+      "explicacao": "Foto = fotografía"
+    },
+    {
+      "pergunta": "Palabras en -CIÓN son:",
+      "opcoes": [
+        "Masculinas",
+        "Femeninas",
+        "Variables",
+        "Neutras"
+      ],
+      "correta": 1,
+      "explicacao": "-CIÓN = femenino"
+    },
+    {
+      "pergunta": "Palabras en -DAD son:",
+      "opcoes": [
+        "Masculinas",
+        "Femeninas",
+        "Variables",
+        "Neutras"
+      ],
+      "correta": 1,
+      "explicacao": "-DAD = femenino"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Género de los Sustantivos.",
+      "respostaModelo": "En esta lección aprendí sobre Género de los Sustantivos. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Género de los Sustantivos en español?",
+      "respostaModelo": "Género de los Sustantivos es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Género de los Sustantivos. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 19!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Género de los Sustantivos.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

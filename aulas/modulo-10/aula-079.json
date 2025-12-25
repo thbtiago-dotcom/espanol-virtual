@@ -1,0 +1,282 @@
+{
+  "id": 79,
+  "titulo": "Pidiendo Direcciones",
+  "modulo": {
+    "numero": 10,
+    "nome": "Situaciones Cotidianas"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Pidiendo Direcciones",
+      "texto": "En esta lección estudiaremos Pidiendo Direcciones. Es un tema importante para tu aprendizaje del español."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Pidiendo Direcciones",
+      "texto": "**Puntos principales de Pidiendo Direcciones:**\n\nEste tema te ayudará a comunicarte mejor en español. Presta atención a los ejemplos y practica mucho.",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Pidiendo Direcciones.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "¿Cuál es el tema de la lección 79?",
+      "opcoes": [
+        "Pidiendo Direcciones",
+        "Gramática básica",
+        "Vocabulario general",
+        "Conversación libre"
+      ],
+      "correta": 0,
+      "explicacao": "El tema es: Pidiendo Direcciones"
+    },
+    {
+      "pergunta": "La lección 79 pertenece al módulo:",
+      "opcoes": [
+        "Módulo 10",
+        "Módulo 11",
+        "Módulo 9",
+        "Ninguno"
+      ],
+      "correta": 0,
+      "explicacao": "Módulo 10"
+    },
+    {
+      "pergunta": "¿En qué nivel está la lección 79?",
+      "opcoes": [
+        "Básico (A1-A2)",
+        "Intermedio (B1-B2)",
+        "Avanzado (C1-C2)",
+        "Pre-básico"
+      ],
+      "correta": 1,
+      "explicacao": "Nivel correspondiente"
+    },
+    {
+      "pergunta": "'Yo hablaría' es tiempo:",
+      "opcoes": [
+        "Presente",
+        "Pasado",
+        "Futuro",
+        "Condicional"
+      ],
+      "correta": 3,
+      "explicacao": "Condicional"
+    },
+    {
+      "pergunta": "'Préstamo lingüístico' es palabra:",
+      "opcoes": [
+        "Inventada",
+        "De otro idioma",
+        "Antigua",
+        "Sin significado"
+      ],
+      "correta": 1,
+      "explicacao": "Importada"
+    },
+    {
+      "pergunta": "El voseo existe en:",
+      "opcoes": [
+        "España",
+        "Argentina",
+        "México",
+        "Cuba"
+      ],
+      "correta": 1,
+      "explicacao": "Uso de vos"
+    },
+    {
+      "pergunta": "'Donde' introduce:",
+      "opcoes": [
+        "Lugar",
+        "Tiempo",
+        "Modo",
+        "Causa"
+      ],
+      "correta": 0,
+      "explicacao": "Locativo"
+    },
+    {
+      "pergunta": "'Para que' usa:",
+      "opcoes": [
+        "Indicativo",
+        "Subjuntivo",
+        "Infinitivo",
+        "Siempre subj."
+      ],
+      "correta": 3,
+      "explicacao": "Finalidad"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Pidiendo Direcciones.",
+      "respostaModelo": "En esta lección aprendí sobre Pidiendo Direcciones. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Pidiendo Direcciones en español?",
+      "respostaModelo": "Pidiendo Direcciones es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    },
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    },
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Pidiendo Direcciones. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 79!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Pidiendo Direcciones.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

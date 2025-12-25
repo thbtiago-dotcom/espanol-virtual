@@ -1,0 +1,318 @@
+{
+  "id": 2,
+  "titulo": "Fonética y Pronunciación",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Fonética y Pronunciación",
+      "texto": "La fonética española es más simple que la inglesa porque el español es muy fonético - las palabras se pronuncian casi exactamente como se escriben. Una vez que domines los sonidos básicos, podrás leer cualquier palabra nueva correctamente.\n\nEsta es una gran ventaja del español: a diferencia del inglés donde 'through', 'though' y 'tough' se pronuncian completamente diferente, en español las reglas son consistentes y predecibles.\n\n**Principales diferencias para brasileños:**\n• La **H** es SIEMPRE muda: hola [óla], hacer [asér], hospital [ospitál]\n• La **J** suena fuerte (como R de 'rato'): jamón, jardín, jugar\n• La **LL** suena como Y: calle [káye], lluvia [yúvia], pollo [póyo]\n• Las vocales NUNCA cambian: E siempre es E (no I), O siempre es O (no U)\n• **B** y **V** suenan exactamente igual\n• La **R** simple vs **RR** vibrante cambia significados: pero ≠ perro\n\nEn esta clase dominarás estos sonidos fundamentales que te permitirán pronunciar como un nativo."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Fonética y Pronunciación",
+      "texto": "**Los Sonidos Fundamentales del Español:**\n\n**1. LA H MUDA - La Regla de Oro**\nEn español, la H NUNCA se pronuncia. Sin excepciones.\n• hola → [óla] - Olá (PT)\n• hacer → [asér] - Fazer (PT)\n• hijo → [íjo] - Filho (PT)\n• ahora → [aóra] - Agora (PT)\n• hospital → [ospitál] - Hospital (PT)\n\n**2. LA J ESPAÑOLA - Sonido Fuerte**\nLa J española suena fuerte, similar a la R fuerte del portugués brasileño:\n• jamón → [jamón] - Presunto (PT)\n• jugar → [jugár] - Jogar (PT)\n• jardín → [jardín] - Jardim (PT)\n• viaje → [biáje] - Viagem (PT)\n\n**3. G + E/I = Sonido de J**\nCuando G viene antes de E o I, suena igual que J:\n• gente → [jénte] - Gente (PT)\n• girar → [jirár] - Girar (PT)\n• Argentina → [arjentína]\n\n**4. LL = Sonido de Y**\nEn la mayor parte del mundo hispánico, LL suena como Y:\n• calle → [káye] - Rua (PT)\n• lluvia → [yúvia] - Chuva (PT)\n• pollo → [póyo] - Frango (PT)\n• amarillo → [amaríyo] - Amarelo (PT)\n\n**5. R vs RR - Diferencia Crucial**\n• R simple (un toque): pero, caro, para\n• RR vibrante (múltiple): perro, carro, parra\n• ¡Cuidado! pero = mas (PT) | perro = cachorro (PT)\n\n**6. Vocales Puras**\nLas vocales españolas siempre suenan igual:\n• A [a] - siempre abierta\n• E [e] - siempre cerrada, NUNCA suena como I\n• I [i] - como en portugués\n• O [o] - siempre cerrada, NUNCA suena como U\n• U [u] - como en portugués\n\nDiferente del portugués donde 'leite' suena [leiti] y 'todo' suena [todu], en español las vocales mantienen su sonido puro.",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Fonética y Pronunciación.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Sonido",
+      "pt": "Som",
+      "pron": "[soníðo]",
+      "exemplo": "El sonido de la J es fuerte.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Pronunciar",
+      "pt": "Pronunciar",
+      "pron": "[pronunsjár]",
+      "exemplo": "¿Cómo se pronuncia?",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Hablar",
+      "pt": "Falar",
+      "pron": "[ablár]",
+      "exemplo": "Hablo español.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Escuchar",
+      "pt": "Escutar",
+      "pron": "[eskutʃár]",
+      "exemplo": "Escucha con atención.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Repetir",
+      "pt": "Repetir",
+      "pron": "[repetír]",
+      "exemplo": "Repite después de mí.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "H siempre muda",
+      "explicacao": "La H nunca se pronuncia.",
+      "exemplos": [
+        "hola [óla]",
+        "hacer [asér]"
+      ],
+      "dica": "Ignora la H"
+    },
+    {
+      "regra": "J fuerte",
+      "explicacao": "J suena como R fuerte.",
+      "exemplos": [
+        "jamón",
+        "jardín"
+      ],
+      "dica": "Como R de 'rato'"
+    },
+    {
+      "regra": "LL = Y",
+      "explicacao": "LL suena como Y.",
+      "exemplos": [
+        "calle [káye]",
+        "lluvia [yúbia]"
+      ],
+      "dica": "Piensa en Y"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "¿La H en español es siempre...?",
+      "opcoes": [
+        "Aspirada",
+        "Muda",
+        "Fuerte",
+        "Variable"
+      ],
+      "correta": 1,
+      "explicacao": "H siempre muda en español"
+    },
+    {
+      "pergunta": "'Hacer' se pronuncia:",
+      "opcoes": [
+        "[háser]",
+        "[asér]",
+        "[raser]",
+        "[jaser]"
+      ],
+      "correta": 1,
+      "explicacao": "H muda: [asér]"
+    },
+    {
+      "pergunta": "¿Cómo se pronuncia 'jamón'?",
+      "opcoes": [
+        "[ʒamón]",
+        "[jamón]",
+        "[chamón]",
+        "[hamón]"
+      ],
+      "correta": 1,
+      "explicacao": "J fuerte: [jamón]"
+    },
+    {
+      "pergunta": "La diferencia entre 'pero' y 'perro':",
+      "opcoes": [
+        "No hay diferencia",
+        "RR es vibrante múltiple",
+        "R es más fuerte",
+        "Son sinónimos"
+      ],
+      "correta": 1,
+      "explicacao": "RR vibrante múltiple"
+    },
+    {
+      "pergunta": "'Calle' se pronuncia:",
+      "opcoes": [
+        "[kálle]",
+        "[káye]",
+        "[kálhe]",
+        "[kále]"
+      ],
+      "correta": 1,
+      "explicacao": "LL = Y: [káye]"
+    },
+    {
+      "pergunta": "'Gente' se pronuncia:",
+      "opcoes": [
+        "[guénte]",
+        "[jénte]",
+        "[gênte]",
+        "[chente]"
+      ],
+      "correta": 1,
+      "explicacao": "G + E = J: [jénte]"
+    },
+    {
+      "pergunta": "La vocal E en español:",
+      "opcoes": [
+        "A veces suena como I",
+        "Siempre suena E",
+        "Es nasal",
+        "Es muda"
+      ],
+      "correta": 1,
+      "explicacao": "Vocales siempre puras"
+    },
+    {
+      "pergunta": "¿Cuándo R suena vibrante múltiple?",
+      "opcoes": [
+        "Siempre",
+        "Nunca",
+        "Inicio y RR",
+        "Solo final"
+      ],
+      "correta": 2,
+      "explicacao": "Inicio de palabra y cuando es RR"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Fonética y Pronunciación.",
+      "respostaModelo": "En esta lección aprendí sobre Fonética y Pronunciación. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Fonética y Pronunciación en español?",
+      "respostaModelo": "Fonética y Pronunciación es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Fonética y Pronunciación. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 2!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Fonética y Pronunciación.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

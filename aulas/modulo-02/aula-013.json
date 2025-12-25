@@ -1,0 +1,317 @@
+{
+  "id": 13,
+  "titulo": "Días de la Semana",
+  "modulo": {
+    "numero": 2,
+    "nome": "Números y Tiempo"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Días de la Semana",
+      "texto": "Los días de la semana no llevan mayúscula en español. Son todos masculinos."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Días de la Semana",
+      "texto": "**Los siete días:**\nlunes, martes, miércoles, jueves, viernes, sábado, domingo\n\n**Artículos:**\n• EL lunes (específico)\n• LOS lunes (todos/rutina)\n\n**Plural:**\n• los lunes (no cambia)\n• los sábados (cambia)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Días de la Semana.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Día",
+      "pt": "Dia",
+      "pron": "[día]",
+      "exemplo": "Hoy es un buen día.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Semana",
+      "pt": "Semana",
+      "pron": "[semána]",
+      "exemplo": "Esta semana trabajo.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Mes",
+      "pt": "Mês",
+      "pron": "[més]",
+      "exemplo": "El mes de enero.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Año",
+      "pt": "Ano",
+      "pron": "[áño]",
+      "exemplo": "El año pasado.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Hora",
+      "pt": "Hora",
+      "pron": "[óra]",
+      "exemplo": "¿Qué hora es?",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "El primer día laboral es:",
+      "opcoes": [
+        "Domingo",
+        "Lunes",
+        "Sábado",
+        "Martes"
+      ],
+      "correta": 1,
+      "explicacao": "Lunes = primer día laboral"
+    },
+    {
+      "pergunta": "Los días se escriben con:",
+      "opcoes": [
+        "Mayúscula",
+        "Minúscula",
+        "Depende",
+        "Mayúscula inicial"
+      ],
+      "correta": 1,
+      "explicacao": "Sin mayúscula"
+    },
+    {
+      "pergunta": "'___ lunes tengo clase' (este):",
+      "opcoes": [
+        "Los",
+        "El",
+        "En",
+        "A"
+      ],
+      "correta": 1,
+      "explicacao": "El + día específico"
+    },
+    {
+      "pergunta": "'___ lunes voy al gym' (todos):",
+      "opcoes": [
+        "El",
+        "Los",
+        "En",
+        "Por"
+      ],
+      "correta": 1,
+      "explicacao": "Los + rutina"
+    },
+    {
+      "pergunta": "El plural de 'sábado' es:",
+      "opcoes": [
+        "Sábado",
+        "Sábados",
+        "Sábadoes",
+        "Los sábado"
+      ],
+      "correta": 1,
+      "explicacao": "Sábados (con -s)"
+    },
+    {
+      "pergunta": "El plural de 'martes' es:",
+      "opcoes": [
+        "Marteses",
+        "Martes",
+        "Los marte",
+        "Martés"
+      ],
+      "correta": 1,
+      "explicacao": "Martes (no cambia)"
+    },
+    {
+      "pergunta": "'Finde' es abreviación de:",
+      "opcoes": [
+        "Fiesta",
+        "Final",
+        "Fin de semana",
+        "Viernes"
+      ],
+      "correta": 2,
+      "explicacao": "Finde = fin de semana"
+    },
+    {
+      "pergunta": "'De lunes a viernes' significa:",
+      "opcoes": [
+        "Solo lunes y viernes",
+        "Días laborables",
+        "Fin de semana",
+        "Todo el mes"
+      ],
+      "correta": 1,
+      "explicacao": "Días laborables"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Días de la Semana.",
+      "respostaModelo": "En esta lección aprendí sobre Días de la Semana. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Días de la Semana en español?",
+      "respostaModelo": "Días de la Semana es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    },
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Días de la Semana. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 13!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Días de la Semana.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

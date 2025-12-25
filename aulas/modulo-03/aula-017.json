@@ -1,0 +1,317 @@
+{
+  "id": 17,
+  "titulo": "Artículos Definidos",
+  "modulo": {
+    "numero": 3,
+    "nome": "Artículos y Sustantivos"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Artículos Definidos",
+      "texto": "Los artículos en español concuerdan en género y número con el sustantivo."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Artículos Definidos",
+      "texto": "**Definidos:**\nel (masc. sing.), la (fem. sing.)\nlos (masc. pl.), las (fem. pl.)\n\n**Indefinidos:**\nun (masc.), una (fem.)\nunos (masc. pl.), unas (fem. pl.)\n\n**Contracciones:**\na + el = AL\nde + el = DEL",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Artículos Definidos.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "El",
+      "pt": "O",
+      "pron": "[el]",
+      "exemplo": "El libro es nuevo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "La",
+      "pt": "A",
+      "pron": "[la]",
+      "exemplo": "La casa es grande.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Un",
+      "pt": "Um",
+      "pron": "[un]",
+      "exemplo": "Un carro rojo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Una",
+      "pt": "Uma",
+      "pron": "[úna]",
+      "exemplo": "Una mesa bonita.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Los",
+      "pt": "Os",
+      "pron": "[los]",
+      "exemplo": "Los libros están aquí.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'El' es artículo:",
+      "opcoes": [
+        "Definido masculino",
+        "Indefinido masculino",
+        "Definido femenino",
+        "Indefinido femenino"
+      ],
+      "correta": 0,
+      "explicacao": "El = definido masculino"
+    },
+    {
+      "pergunta": "'Una' es artículo:",
+      "opcoes": [
+        "Definido masculino",
+        "Indefinido masculino",
+        "Definido femenino",
+        "Indefinido femenino"
+      ],
+      "correta": 3,
+      "explicacao": "Una = indefinido femenino"
+    },
+    {
+      "pergunta": "El plural de 'el' es:",
+      "opcoes": [
+        "Las",
+        "Los",
+        "Les",
+        "Eles"
+      ],
+      "correta": 1,
+      "explicacao": "El → Los"
+    },
+    {
+      "pergunta": "El plural de 'la' es:",
+      "opcoes": [
+        "Las",
+        "Los",
+        "Les",
+        "Elas"
+      ],
+      "correta": 0,
+      "explicacao": "La → Las"
+    },
+    {
+      "pergunta": "'Voy al cine' = Voy ___ cine:",
+      "opcoes": [
+        "A la",
+        "A el",
+        "A lo",
+        "De el"
+      ],
+      "correta": 1,
+      "explicacao": "Al = a + el"
+    },
+    {
+      "pergunta": "'Vengo del trabajo' = Vengo ___ trabajo:",
+      "opcoes": [
+        "De la",
+        "De el",
+        "De lo",
+        "A el"
+      ],
+      "correta": 1,
+      "explicacao": "Del = de + el"
+    },
+    {
+      "pergunta": "'___ niños juegan' (todos los niños):",
+      "opcoes": [
+        "Unos",
+        "Los",
+        "El",
+        "Un"
+      ],
+      "correta": 1,
+      "explicacao": "Los = definido, general"
+    },
+    {
+      "pergunta": "'Tengo ___ idea' (no específica):",
+      "opcoes": [
+        "La",
+        "Una",
+        "El",
+        "Un"
+      ],
+      "correta": 1,
+      "explicacao": "Una = indefinido"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Artículos Definidos.",
+      "respostaModelo": "En esta lección aprendí sobre Artículos Definidos. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Artículos Definidos en español?",
+      "respostaModelo": "Artículos Definidos es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Artículos Definidos. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 17!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Artículos Definidos.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

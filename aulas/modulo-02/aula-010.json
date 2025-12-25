@@ -1,0 +1,317 @@
+{
+  "id": 10,
+  "titulo": "Números de 21 a 100",
+  "modulo": {
+    "numero": 2,
+    "nome": "Números y Tiempo"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Números de 21 a 100",
+      "texto": "Los números del 21 al 100 siguen patrones claros. Del 21-29 son una palabra, del 30-99 usan 'y'."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Números de 21 a 100",
+      "texto": "**21-29 (una palabra):**\nveintiuno, veintidós, veintitrés...\n\n**30-99 (con Y):**\ntreinta y uno, cuarenta y cinco...\n\n**Decenas:**\ntreinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa\n\n**100:**\n• cien (exacto)\n• ciento + número (101+)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Números de 21 a 100.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Número",
+      "pt": "Número",
+      "pron": "[número]",
+      "exemplo": "¿Cuál es tu número?",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Contar",
+      "pt": "Contar",
+      "pron": "[kontár]",
+      "exemplo": "Vamos a contar.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Más",
+      "pt": "Mais",
+      "pron": "[más]",
+      "exemplo": "Dos más dos.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Menos",
+      "pt": "Menos",
+      "pron": "[ménos]",
+      "exemplo": "Cinco menos tres.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Cuánto",
+      "pt": "Quanto",
+      "pron": "[kuánto]",
+      "exemplo": "¿Cuánto cuesta?",
+      "categoria": "interrogativo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "UNO → UN",
+      "explicacao": "Antes de masculino: un.",
+      "exemplos": [
+        "un libro",
+        "una casa"
+      ],
+      "dica": "Como en portugués"
+    },
+    {
+      "regra": "21-29 una palabra",
+      "explicacao": "Se escriben juntos.",
+      "exemplos": [
+        "veintiuno",
+        "veintidós"
+      ],
+      "dica": "veinti+número"
+    },
+    {
+      "regra": "30-99 con Y",
+      "explicacao": "Tres palabras con Y.",
+      "exemplos": [
+        "treinta y uno"
+      ],
+      "dica": "Como en portugués"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "¿Cómo se escribe 25?",
+      "opcoes": [
+        "Veinte y cinco",
+        "Veinticinco",
+        "Veinti cinco",
+        "Venteicinco"
+      ],
+      "correta": 1,
+      "explicacao": "21-29 = una palabra"
+    },
+    {
+      "pergunta": "¿Cómo se dice 37?",
+      "opcoes": [
+        "Treintaisiete",
+        "Treinta siete",
+        "Treinta y siete",
+        "Trenta y siete"
+      ],
+      "correta": 2,
+      "explicacao": "30+ = con Y"
+    },
+    {
+      "pergunta": "100 exacto se dice:",
+      "opcoes": [
+        "Ciento",
+        "Cien",
+        "Cent",
+        "Ciento uno"
+      ],
+      "correta": 1,
+      "explicacao": "100 = cien"
+    },
+    {
+      "pergunta": "101 se dice:",
+      "opcoes": [
+        "Cien uno",
+        "Ciento uno",
+        "Cien y uno",
+        "Un ciento"
+      ],
+      "correta": 1,
+      "explicacao": "101 = ciento uno"
+    },
+    {
+      "pergunta": "54 se escribe:",
+      "opcoes": [
+        "Cincuenta cuatro",
+        "Cincuenta y cuatro",
+        "Cincuentaicuatro",
+        "Cincoenta"
+      ],
+      "correta": 1,
+      "explicacao": "30-99: decena Y unidad"
+    },
+    {
+      "pergunta": "'Veintiún años' porque años es:",
+      "opcoes": [
+        "Femenino",
+        "Masculino",
+        "Plural",
+        "Singular"
+      ],
+      "correta": 1,
+      "explicacao": "Masculino = veintiún"
+    },
+    {
+      "pergunta": "¿Cómo se dice 88?",
+      "opcoes": [
+        "Ochenta ocho",
+        "Ochenta y ocho",
+        "Ochentaiocho",
+        "Ocho y ochenta"
+      ],
+      "correta": 1,
+      "explicacao": "ochenta y ocho"
+    },
+    {
+      "pergunta": "¿Cómo se dice 99?",
+      "opcoes": [
+        "Noventa nueve",
+        "Noventa y nueve",
+        "Noventainueve",
+        "Nueve y noventa"
+      ],
+      "correta": 1,
+      "explicacao": "noventa y nueve"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "escribir_numero",
+      "instrucao": "Escribe en palabras:",
+      "questoes": [
+        {
+          "pergunta": "7",
+          "resposta": "siete",
+          "explicacao": "7 = siete"
+        },
+        {
+          "pergunta": "15",
+          "resposta": "quince",
+          "explicacao": "15 = quince"
+        },
+        {
+          "pergunta": "23",
+          "resposta": "veintitrés",
+          "explicacao": "23 = veintitrés"
+        },
+        {
+          "pergunta": "50",
+          "resposta": "cincuenta",
+          "explicacao": "50 = cincuenta"
+        },
+        {
+          "pergunta": "100",
+          "resposta": "cien",
+          "explicacao": "100 = cien"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Números de 21 a 100.",
+      "respostaModelo": "En esta lección aprendí sobre Números de 21 a 100. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Números de 21 a 100 en español?",
+      "respostaModelo": "Números de 21 a 100 es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    },
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Números de 21 a 100. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 10!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Números de 21 a 100.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "id": 3,
+  "titulo": "Acentuación y Sílabas",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Acentuación y Sílabas",
+      "texto": "La acentuación española sigue reglas claras. Una vez que las entiendes, sabrás dónde va el acento en cualquier palabra y podrás pronunciar correctamente.\n\nEl acento puede cambiar significados: tú (você) ≠ tu (seu)"
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Acentuación y Sílabas",
+      "texto": "**Clasificación de palabras:**\n\n**AGUDAS** (última sílaba): ca-FÉ, can-CIÓN\n• Tilde si terminan en N, S o vocal\n\n**GRAVES** (penúltima): CA-sa, ÁR-bol\n• Tilde si NO terminan en N, S o vocal\n\n**ESDRÚJULAS** (antepenúltima): MÚ-si-ca\n• SIEMPRE llevan tilde\n\n**Acentos que cambian significado:**\n• tú/tu, él/el, sí/si, más/mas",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Acentuación y Sílabas.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Canción' es una palabra:",
+      "opcoes": [
+        "Grave",
+        "Aguda",
+        "Esdrújula",
+        "Sobresdrújula"
+      ],
+      "correta": 1,
+      "explicacao": "Aguda: can-CIÓN"
+    },
+    {
+      "pergunta": "¿Por qué 'música' lleva tilde?",
+      "opcoes": [
+        "Termina en A",
+        "Es esdrújula",
+        "Es aguda",
+        "Es grave"
+      ],
+      "correta": 1,
+      "explicacao": "Esdrújulas siempre con tilde"
+    },
+    {
+      "pergunta": "'Casa' no lleva tilde porque:",
+      "opcoes": [
+        "Es esdrújula",
+        "Es aguda + vocal",
+        "Es grave + vocal",
+        "Es monosílaba"
+      ],
+      "correta": 2,
+      "explicacao": "Grave + vocal = sin tilde"
+    },
+    {
+      "pergunta": "Diferencia entre 'tú' y 'tu':",
+      "opcoes": [
+        "Ninguna",
+        "Tú = pronombre, tu = posesivo",
+        "Tu = pronombre",
+        "Son errores"
+      ],
+      "correta": 1,
+      "explicacao": "Acento diacrítico"
+    },
+    {
+      "pergunta": "'Árbol' lleva tilde porque:",
+      "opcoes": [
+        "Es esdrújula",
+        "Es aguda + L",
+        "Es grave + L",
+        "Siempre lleva"
+      ],
+      "correta": 2,
+      "explicacao": "Grave + L = con tilde"
+    },
+    {
+      "pergunta": "Las esdrújulas llevan tilde:",
+      "opcoes": [
+        "Nunca",
+        "A veces",
+        "Siempre",
+        "Solo con N"
+      ],
+      "correta": 2,
+      "explicacao": "Esdrújulas SIEMPRE con tilde"
+    },
+    {
+      "pergunta": "'Teléfono' es:",
+      "opcoes": [
+        "Aguda",
+        "Grave",
+        "Esdrújula",
+        "Sobresdrújula"
+      ],
+      "correta": 2,
+      "explicacao": "Te-LÉ-fo-no = esdrújula"
+    },
+    {
+      "pergunta": "Agudas llevan tilde si terminan en:",
+      "opcoes": [
+        "Cualquier letra",
+        "N, S o vocal",
+        "Consonante",
+        "Solo vocal"
+      ],
+      "correta": 1,
+      "explicacao": "Agudas + N/S/vocal = tilde"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Acentuación y Sílabas.",
+      "respostaModelo": "En esta lección aprendí sobre Acentuación y Sílabas. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Acentuación y Sílabas en español?",
+      "respostaModelo": "Acentuación y Sílabas es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Acentuación y Sílabas. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 3!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Acentuación y Sílabas.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

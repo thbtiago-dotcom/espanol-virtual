@@ -1,0 +1,317 @@
+{
+  "id": 14,
+  "titulo": "Meses y Estaciones",
+  "modulo": {
+    "numero": 2,
+    "nome": "Números y Tiempo"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Meses y Estaciones",
+      "texto": "Los meses tampoco llevan mayúscula. Las estaciones varían según el hemisferio."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Meses y Estaciones",
+      "texto": "**Los 12 meses:**\nenero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre\n\n**Estaciones:**\n• primavera, verano, otoño, invierno\n\n**Fechas:**\nel + día + de + mes + de + año\n\"el 15 de marzo de 2024\"",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Meses y Estaciones.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Día",
+      "pt": "Dia",
+      "pron": "[día]",
+      "exemplo": "Hoy es un buen día.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Semana",
+      "pt": "Semana",
+      "pron": "[semána]",
+      "exemplo": "Esta semana trabajo.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Mes",
+      "pt": "Mês",
+      "pron": "[més]",
+      "exemplo": "El mes de enero.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Año",
+      "pt": "Ano",
+      "pron": "[áño]",
+      "exemplo": "El año pasado.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Hora",
+      "pt": "Hora",
+      "pron": "[óra]",
+      "exemplo": "¿Qué hora es?",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "Los meses se escriben con:",
+      "opcoes": [
+        "Mayúscula",
+        "Minúscula",
+        "Depende",
+        "Mayúscula inicial"
+      ],
+      "correta": 1,
+      "explicacao": "Sin mayúscula"
+    },
+    {
+      "pergunta": "¿Cuántos meses tiene el año?",
+      "opcoes": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correta": 2,
+      "explicacao": "12 meses"
+    },
+    {
+      "pergunta": "El primer mes del año es:",
+      "opcoes": [
+        "Diciembre",
+        "Enero",
+        "Febrero",
+        "Marzo"
+      ],
+      "correta": 1,
+      "explicacao": "Enero = primer mes"
+    },
+    {
+      "pergunta": "Las estaciones del año son:",
+      "opcoes": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correta": 1,
+      "explicacao": "4 estaciones"
+    },
+    {
+      "pergunta": "'El 25 de diciembre' - el formato es:",
+      "opcoes": [
+        "Mes + día",
+        "Día + de + mes",
+        "Día/mes",
+        "Mes-día"
+      ],
+      "correta": 1,
+      "explicacao": "Día + de + mes"
+    },
+    {
+      "pergunta": "En el hemisferio norte, el verano es:",
+      "opcoes": [
+        "Dic-Mar",
+        "Mar-Jun",
+        "Jun-Sep",
+        "Sep-Dic"
+      ],
+      "correta": 2,
+      "explicacao": "Verano = Jun-Sep (norte)"
+    },
+    {
+      "pergunta": "'En primavera' usa la preposición:",
+      "opcoes": [
+        "A",
+        "De",
+        "En",
+        "Por"
+      ],
+      "correta": 2,
+      "explicacao": "EN + estación"
+    },
+    {
+      "pergunta": "El mes después de agosto es:",
+      "opcoes": [
+        "Julio",
+        "Septiembre",
+        "Octubre",
+        "Noviembre"
+      ],
+      "correta": 1,
+      "explicacao": "Septiembre"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Meses y Estaciones.",
+      "respostaModelo": "En esta lección aprendí sobre Meses y Estaciones. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Meses y Estaciones en español?",
+      "respostaModelo": "Meses y Estaciones es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    },
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Meses y Estaciones. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 14!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Meses y Estaciones.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

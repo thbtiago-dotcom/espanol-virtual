@@ -1,0 +1,317 @@
+{
+  "id": 12,
+  "titulo": "Números Ordinales",
+  "modulo": {
+    "numero": 2,
+    "nome": "Números y Tiempo"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Números Ordinales",
+      "texto": "Los ordinales indican posición: primero, segundo, tercero... Tienen género y algunos se acortan."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Números Ordinales",
+      "texto": "**1º-10º:**\nprimero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo\n\n**PRIMER y TERCER:**\n• el primer piso (no 'primero')\n• el tercer lugar (no 'tercero')\n• PERO: la primera vez, la tercera persona\n\n**Después de 10º:**\nSe usan cardinales: el piso doce",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Números Ordinales.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Número",
+      "pt": "Número",
+      "pron": "[número]",
+      "exemplo": "¿Cuál es tu número?",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Contar",
+      "pt": "Contar",
+      "pron": "[kontár]",
+      "exemplo": "Vamos a contar.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Más",
+      "pt": "Mais",
+      "pron": "[más]",
+      "exemplo": "Dos más dos.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Menos",
+      "pt": "Menos",
+      "pron": "[ménos]",
+      "exemplo": "Cinco menos tres.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Cuánto",
+      "pt": "Quanto",
+      "pron": "[kuánto]",
+      "exemplo": "¿Cuánto cuesta?",
+      "categoria": "interrogativo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "UNO → UN",
+      "explicacao": "Antes de masculino: un.",
+      "exemplos": [
+        "un libro",
+        "una casa"
+      ],
+      "dica": "Como en portugués"
+    },
+    {
+      "regra": "21-29 una palabra",
+      "explicacao": "Se escriben juntos.",
+      "exemplos": [
+        "veintiuno",
+        "veintidós"
+      ],
+      "dica": "veinti+número"
+    },
+    {
+      "regra": "30-99 con Y",
+      "explicacao": "Tres palabras con Y.",
+      "exemplos": [
+        "treinta y uno"
+      ],
+      "dica": "Como en portugués"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'El ___ piso' (1º):",
+      "opcoes": [
+        "Primero",
+        "Primer",
+        "Primera",
+        "Prime"
+      ],
+      "correta": 1,
+      "explicacao": "Primer + masc. sing."
+    },
+    {
+      "pergunta": "'La ___ vez' (1ª):",
+      "opcoes": [
+        "Primer",
+        "Primero",
+        "Primera",
+        "Prime"
+      ],
+      "correta": 2,
+      "explicacao": "Primera + femenino"
+    },
+    {
+      "pergunta": "'El ___ lugar' (3º):",
+      "opcoes": [
+        "Tercero",
+        "Tercer",
+        "Tercera",
+        "Tres"
+      ],
+      "correta": 1,
+      "explicacao": "Tercer + masc. sing."
+    },
+    {
+      "pergunta": "¿Cómo se dice '5º'?",
+      "opcoes": [
+        "Cinco",
+        "Cinqueno",
+        "Quinto",
+        "Quinteno"
+      ],
+      "correta": 2,
+      "explicacao": "5º = quinto"
+    },
+    {
+      "pergunta": "Felipe VI se lee:",
+      "opcoes": [
+        "Felipe seis",
+        "Felipe sexto",
+        "Felipe sex",
+        "Felipe seiseno"
+      ],
+      "correta": 1,
+      "explicacao": "Reyes con ordinal"
+    },
+    {
+      "pergunta": "'El piso 12' normalmente se dice:",
+      "opcoes": [
+        "Duodécimo piso",
+        "Piso doce",
+        "Doceno piso",
+        "Décimo segundo"
+      ],
+      "correta": 1,
+      "explicacao": "Después de 10º = cardinales"
+    },
+    {
+      "pergunta": "El 1 de enero se dice:",
+      "opcoes": [
+        "El uno de enero",
+        "El primero de enero",
+        "El primer enero",
+        "Enero uno"
+      ],
+      "correta": 1,
+      "explicacao": "Solo día 1 usa ordinal"
+    },
+    {
+      "pergunta": "'Los primeros días' - primeros es:",
+      "opcoes": [
+        "Singular",
+        "Plural",
+        "Femenino",
+        "Invariable"
+      ],
+      "correta": 1,
+      "explicacao": "Primeros = masc. plural"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "escribir_numero",
+      "instrucao": "Escribe en palabras:",
+      "questoes": [
+        {
+          "pergunta": "7",
+          "resposta": "siete",
+          "explicacao": "7 = siete"
+        },
+        {
+          "pergunta": "15",
+          "resposta": "quince",
+          "explicacao": "15 = quince"
+        },
+        {
+          "pergunta": "23",
+          "resposta": "veintitrés",
+          "explicacao": "23 = veintitrés"
+        },
+        {
+          "pergunta": "50",
+          "resposta": "cincuenta",
+          "explicacao": "50 = cincuenta"
+        },
+        {
+          "pergunta": "100",
+          "resposta": "cien",
+          "explicacao": "100 = cien"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Números Ordinales.",
+      "respostaModelo": "En esta lección aprendí sobre Números Ordinales. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Números Ordinales en español?",
+      "respostaModelo": "Números Ordinales es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Números Ordinales. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 12!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Números Ordinales.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

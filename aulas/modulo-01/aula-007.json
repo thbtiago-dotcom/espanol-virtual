@@ -1,0 +1,317 @@
+{
+  "id": 7,
+  "titulo": "Despedidas y Expresiones",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Despedidas y Expresiones",
+      "texto": "Las despedidas en español varían según la formalidad y cuándo volverás a ver a la persona. También incluyen expresiones de buenos deseos."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Despedidas y Expresiones",
+      "texto": "**Despedidas básicas:**\n• Adiós / Hasta luego\n• Hasta mañana / Hasta pronto\n• Nos vemos / ¡Chao!\n\n**Buenos deseos:**\n• ¡Que te vaya bien!\n• ¡Que descanses!\n• ¡Buen viaje!\n• ¡Buena suerte!\n• ¡Buen fin de semana!\n\n**Según el momento:**\n• ¡Buen provecho! (antes de comer)\n• ¡Dulces sueños! (noche)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Despedidas y Expresiones.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Buenos días",
+      "pt": "Bom dia",
+      "pron": "[buénos días]",
+      "exemplo": "Buenos días, ¿cómo está?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas tardes",
+      "pt": "Boa tarde",
+      "pron": "[buénas tárdes]",
+      "exemplo": "Buenas tardes a todos.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas noches",
+      "pt": "Boa noite",
+      "pron": "[buénas nóches]",
+      "exemplo": "Buenas noches.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Hola",
+      "pt": "Olá",
+      "pron": "[óla]",
+      "exemplo": "¡Hola! ¿Qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "¿Qué tal?",
+      "pt": "E aí?",
+      "pron": "[ké tál]",
+      "exemplo": "Hola, ¿qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "La despedida más común es:",
+      "opcoes": [
+        "Adiós definitivo",
+        "Hasta luego",
+        "Nunca más",
+        "Sayonara"
+      ],
+      "correta": 1,
+      "explicacao": "Hasta luego = más común"
+    },
+    {
+      "pergunta": "'Chao' o 'Chau' es:",
+      "opcoes": [
+        "Formal",
+        "Informal",
+        "Insulto",
+        "Saludo"
+      ],
+      "correta": 1,
+      "explicacao": "Chao/Chau = muy informal"
+    },
+    {
+      "pergunta": "Antes de dormir dices:",
+      "opcoes": [
+        "Buen provecho",
+        "Que descanses",
+        "Buen viaje",
+        "Hasta el lunes"
+      ],
+      "correta": 1,
+      "explicacao": "Noche = Que descanses"
+    },
+    {
+      "pergunta": "'Buen provecho' se dice:",
+      "opcoes": [
+        "Al llegar",
+        "Antes de comer",
+        "Al salir",
+        "Al dormir"
+      ],
+      "correta": 1,
+      "explicacao": "Buen provecho = antes de comer"
+    },
+    {
+      "pergunta": "Si alguien viaja, dices:",
+      "opcoes": [
+        "Que descanses",
+        "Buen viaje",
+        "Buen provecho",
+        "Hasta mañana"
+      ],
+      "correta": 1,
+      "explicacao": "¡Buen viaje! para viajes"
+    },
+    {
+      "pergunta": "'Nos vemos el lunes' indica:",
+      "opcoes": [
+        "Despedida definitiva",
+        "Encuentro específico",
+        "Saludo",
+        "Duda"
+      ],
+      "correta": 1,
+      "explicacao": "Cuándo se verán de nuevo"
+    },
+    {
+      "pergunta": "'¡Cuídate!' con usted es:",
+      "opcoes": [
+        "¡Cuídese!",
+        "¡Cuídaste!",
+        "¡Cuídalo!",
+        "¡Cuidar!"
+      ],
+      "correta": 0,
+      "explicacao": "Usted = ¡Cuídese!"
+    },
+    {
+      "pergunta": "'Buen fin de semana' se dice:",
+      "opcoes": [
+        "Lunes",
+        "Miércoles",
+        "Viernes",
+        "Domingo"
+      ],
+      "correta": 2,
+      "explicacao": "Viernes = buen fin de semana"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Despedidas y Expresiones.",
+      "respostaModelo": "En esta lección aprendí sobre Despedidas y Expresiones. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Despedidas y Expresiones en español?",
+      "respostaModelo": "Despedidas y Expresiones es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    },
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    },
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Despedidas y Expresiones. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 7!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Despedidas y Expresiones.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

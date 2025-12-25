@@ -1,0 +1,282 @@
+{
+  "id": 59,
+  "titulo": "La Negación Simple",
+  "modulo": {
+    "numero": 8,
+    "nome": "Preguntas y Negaciones"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: La Negación Simple",
+      "texto": "La negación en español es simple: se pone NO antes del verbo. Existe la doble negación."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: La Negación Simple",
+      "texto": "**Negación simple:**\nNo + verbo\n\"No hablo inglés\"\n\n**Palabras negativas:**\n• nada, nadie, nunca, ninguno, tampoco\n\n**Doble negación:**\n• No tengo NADA\n• No viene NADIE\n• No voy NUNCA\n\n(En español, la doble negación es correcta)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre La Negación Simple.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Ningún' es apócope de:",
+      "opcoes": [
+        "Ninguna",
+        "Ninguno",
+        "Nada",
+        "Nadie"
+      ],
+      "correta": 1,
+      "explicacao": "Ninguno → ningún"
+    },
+    {
+      "pergunta": "'Ya no' significa:",
+      "opcoes": [
+        "Todavía",
+        "No más/dejó de",
+        "Nunca",
+        "Siempre"
+      ],
+      "correta": 1,
+      "explicacao": "Ya no = não mais"
+    },
+    {
+      "pergunta": "'No tengo nada' es:",
+      "opcoes": [
+        "Incorrecto",
+        "Doble negación válida",
+        "Solo en coloquial",
+        "Afirmación"
+      ],
+      "correta": 1,
+      "explicacao": "Doble negación es correcta"
+    },
+    {
+      "pergunta": "'Nunca' significa:",
+      "opcoes": [
+        "Siempre",
+        "A veces",
+        "Nunca",
+        "Ahora"
+      ],
+      "correta": 2,
+      "explicacao": "Nunca = nunca"
+    },
+    {
+      "pergunta": "'Ninguno' es negativo de:",
+      "opcoes": [
+        "Todo",
+        "Alguno",
+        "Uno",
+        "Cada"
+      ],
+      "correta": 1,
+      "explicacao": "Alguno ↔ Ninguno"
+    },
+    {
+      "pergunta": "'Sin' es preposición de:",
+      "opcoes": [
+        "Adición",
+        "Negación/ausencia",
+        "Lugar",
+        "Tiempo"
+      ],
+      "correta": 1,
+      "explicacao": "Sin = ausencia"
+    },
+    {
+      "pergunta": "'Aún no' significa:",
+      "opcoes": [
+        "Ya",
+        "Todavía no",
+        "Nunca",
+        "Siempre"
+      ],
+      "correta": 1,
+      "explicacao": "Aún no = todavía no"
+    },
+    {
+      "pergunta": "'No hablo español' - NO va:",
+      "opcoes": [
+        "Después del verbo",
+        "Antes del verbo",
+        "Al final",
+        "No se usa"
+      ],
+      "correta": 1,
+      "explicacao": "NO + verbo"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre La Negación Simple.",
+      "respostaModelo": "En esta lección aprendí sobre La Negación Simple. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar La Negación Simple en español?",
+      "respostaModelo": "La Negación Simple es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre La Negación Simple. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 59!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: La Negación Simple.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

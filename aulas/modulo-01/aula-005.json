@@ -1,0 +1,317 @@
+{
+  "id": 5,
+  "titulo": "Saludos Informales",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Saludos Informales",
+      "texto": "Los saludos formales son esenciales en contextos profesionales, con desconocidos, personas mayores o en situaciones que requieren respeto y cortesía. El uso correcto del registro formal demuestra educación y puede abrir muchas puertas.\n\nEn español, la diferencia más importante entre formal e informal es el uso de **USTED** en lugar de **TÚ**. Esto afecta no solo el pronombre, sino también la conjugación del verbo.\n\n**¿Cuándo usar el registro formal?**\n• En el trabajo (con jefes, clientes, colegas nuevos)\n• Con personas mayores\n• Con desconocidos\n• En situaciones oficiales (bancos, oficinas públicas)\n• Al conocer a alguien por primera vez\n• En cartas y correos profesionales\n\n**Consejo importante:** Cuando dudes, ¡usa USTED! Es mejor parecer demasiado formal que irrespetuoso. La otra persona puede invitarte a tutear si prefiere."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Saludos Informales",
+      "texto": "**Saludos Según la Hora del Día:**\n\n**Por la mañana (hasta ~12:00):**\n• Buenos días - Bom dia (PT)\n  \"Buenos días, señor García.\"\n  \"Buenos días, ¿cómo está usted?\"\n\n**Por la tarde (~12:00 - 20:00):**\n• Buenas tardes - Boa tarde (PT)\n  \"Buenas tardes, señora Martínez.\"\n  \"Buenas tardes, ¿en qué puedo ayudarle?\"\n\n**Por la noche (después de ~20:00):**\n• Buenas noches - Boa noite (PT)\n  \"Buenas noches, doctor Ramírez.\"\n  \"Buenas noches, que descanse.\"\n\n**USTED vs TÚ - La Clave de la Formalidad:**\n\nCon USTED (formal):\n• ¿Cómo está usted? (verbo en 3ª persona)\n• ¿Usted trabaja aquí?\n• ¿Necesita algo?\n\nCon TÚ (informal):\n• ¿Cómo estás? (verbo en 2ª persona)\n• ¿Tú trabajas aquí?\n• ¿Necesitas algo?\n\n**Expresiones Formales Esenciales:**\n\nPara preguntar cómo está alguien:\n• ¿Cómo está usted? - Como está o senhor/a senhora?\n• ¿Cómo se encuentra? - Como se encontra?\n• ¿Qué tal está? - Como vai?\n\nRespuestas formales:\n• Muy bien, gracias. ¿Y usted?\n• Bien, gracias por preguntar.\n• No muy bien, la verdad.\n\nAl conocer a alguien:\n• Mucho gusto - Muito prazer\n• Encantado/Encantada - Encantado/a\n• Es un placer conocerle - É um prazer conhecê-lo\n\nDirigirse a alguien:\n• Señor (Sr.) + apellido\n• Señora (Sra.) + apellido\n• Don/Doña + nombre (muy respetuoso)",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Saludos Informales.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Buenos días",
+      "pt": "Bom dia",
+      "pron": "[buénos días]",
+      "exemplo": "Buenos días, ¿cómo está?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas tardes",
+      "pt": "Boa tarde",
+      "pron": "[buénas tárdes]",
+      "exemplo": "Buenas tardes a todos.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas noches",
+      "pt": "Boa noite",
+      "pron": "[buénas nóches]",
+      "exemplo": "Buenas noches.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Hola",
+      "pt": "Olá",
+      "pron": "[óla]",
+      "exemplo": "¡Hola! ¿Qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "¿Qué tal?",
+      "pt": "E aí?",
+      "pron": "[ké tál]",
+      "exemplo": "Hola, ¿qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "El saludo informal más común es:",
+      "opcoes": [
+        "Buenos días",
+        "¡Hola!",
+        "Señor",
+        "Estimado"
+      ],
+      "correta": 1,
+      "explicacao": "¡Hola! = informal universal"
+    },
+    {
+      "pergunta": "'¿Qué onda?' es típico de:",
+      "opcoes": [
+        "España",
+        "México",
+        "Argentina",
+        "Portugal"
+      ],
+      "correta": 1,
+      "explicacao": "¿Qué onda? = México"
+    },
+    {
+      "pergunta": "¿Cómo conjugas ESTAR con TÚ?",
+      "opcoes": [
+        "Está",
+        "Estás",
+        "Estoy",
+        "Están"
+      ],
+      "correta": 1,
+      "explicacao": "Tú estás"
+    },
+    {
+      "pergunta": "'¡Dale!' significa:",
+      "opcoes": [
+        "No",
+        "Adiós",
+        "Ok/Beleza",
+        "Hola"
+      ],
+      "correta": 2,
+      "explicacao": "¡Dale! = acuerdo informal"
+    },
+    {
+      "pergunta": "'Nos vemos' es:",
+      "opcoes": [
+        "Saludo",
+        "Despedida",
+        "Pregunta",
+        "Insulto"
+      ],
+      "correta": 1,
+      "explicacao": "Nos vemos = despedida"
+    },
+    {
+      "pergunta": "En Argentina dicen 'vos'. Esto es:",
+      "opcoes": [
+        "Error",
+        "Voseo",
+        "Formal",
+        "Antiguo"
+      ],
+      "correta": 1,
+      "explicacao": "Voseo = normal en Argentina"
+    },
+    {
+      "pergunta": "'¿Qué tal?' se responde con:",
+      "opcoes": [
+        "Mucho gusto",
+        "Bien, ¿y tú?",
+        "Señor",
+        "Adiós"
+      ],
+      "correta": 1,
+      "explicacao": "Responder y devolver"
+    },
+    {
+      "pergunta": "'¿Cómo andas?' es:",
+      "opcoes": [
+        "Formal",
+        "Informal",
+        "Incorrecto",
+        "Literario"
+      ],
+      "correta": 1,
+      "explicacao": "¿Cómo andas? = informal"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "completar",
+      "instrucao": "Completa el saludo:",
+      "questoes": [
+        {
+          "pergunta": "Buenos ____",
+          "resposta": "días",
+          "explicacao": "Buenos días"
+        },
+        {
+          "pergunta": "¿Cómo ____ usted?",
+          "resposta": "está",
+          "explicacao": "¿Cómo está usted?"
+        },
+        {
+          "pergunta": "Mucho ____",
+          "resposta": "gusto",
+          "explicacao": "Mucho gusto"
+        },
+        {
+          "pergunta": "Hasta ____",
+          "resposta": "luego",
+          "explicacao": "Hasta luego"
+        },
+        {
+          "pergunta": "¿Qué ____?",
+          "resposta": "tal",
+          "explicacao": "¿Qué tal?"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Saludos Informales.",
+      "respostaModelo": "En esta lección aprendí sobre Saludos Informales. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Saludos Informales en español?",
+      "respostaModelo": "Saludos Informales es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    },
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "Besos al Saludar 💋",
+      "texto": "En España son dos besos, en Latinoamérica generalmente uno."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Saludos Informales. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 5!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Saludos Informales.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

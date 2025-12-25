@@ -1,0 +1,317 @@
+{
+  "id": 6,
+  "titulo": "Presentación Personal",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Presentación Personal",
+      "texto": "Saber presentarte es fundamental. Aprenderás a decir tu nombre, origen, edad, profesión y gustos de forma natural."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Presentación Personal",
+      "texto": "**Información básica:**\n• Me llamo... / Soy...\n• Soy de Brasil / Soy brasileño/a\n• Tengo X años (¡con TENER, no SER!)\n• Soy + profesión\n• Estudio + carrera\n• Me gusta + hobby\n\n**Verbos clave:**\n• LLAMARSE: me llamo, te llamas...\n• SER: soy, eres, es...\n• TENER: tengo, tienes, tiene...\n• GUSTAR: me gusta(n)...",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Presentación Personal.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Buenos días",
+      "pt": "Bom dia",
+      "pron": "[buénos días]",
+      "exemplo": "Buenos días, ¿cómo está?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas tardes",
+      "pt": "Boa tarde",
+      "pron": "[buénas tárdes]",
+      "exemplo": "Buenas tardes a todos.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Buenas noches",
+      "pt": "Boa noite",
+      "pron": "[buénas nóches]",
+      "exemplo": "Buenas noches.",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Hola",
+      "pt": "Olá",
+      "pron": "[óla]",
+      "exemplo": "¡Hola! ¿Qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "¿Qué tal?",
+      "pt": "E aí?",
+      "pron": "[ké tál]",
+      "exemplo": "Hola, ¿qué tal?",
+      "categoria": "saludo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Me llamo Pedro' significa:",
+      "opcoes": [
+        "Eu chamo Pedro",
+        "Eu me chamo Pedro",
+        "Meu nome Pedro",
+        "Pedro me chama"
+      ],
+      "correta": 1,
+      "explicacao": "Me llamo = Eu me chamo"
+    },
+    {
+      "pergunta": "'Tengo 25 años' usa TENER porque:",
+      "opcoes": [
+        "Es error",
+        "Edad usa TENER",
+        "Es formal",
+        "Es pasado"
+      ],
+      "correta": 1,
+      "explicacao": "Edad siempre con TENER"
+    },
+    {
+      "pergunta": "'Soy brasileño' expresa:",
+      "opcoes": [
+        "Profesión",
+        "Nacionalidad",
+        "Edad",
+        "Estado"
+      ],
+      "correta": 1,
+      "explicacao": "SER + nacionalidad"
+    },
+    {
+      "pergunta": "'Apellido' en español significa:",
+      "opcoes": [
+        "Apelido",
+        "Sobrenome",
+        "Nome",
+        "Título"
+      ],
+      "correta": 1,
+      "explicacao": "Apellido = sobrenome (falso amigo)"
+    },
+    {
+      "pergunta": "'Me gusta el fútbol' - el sujeto es:",
+      "opcoes": [
+        "Yo",
+        "Me",
+        "El fútbol",
+        "Gustar"
+      ],
+      "correta": 2,
+      "explicacao": "En GUSTAR, lo que gusta es sujeto"
+    },
+    {
+      "pergunta": "Para decir la profesión usamos:",
+      "opcoes": [
+        "ESTAR",
+        "SER",
+        "TENER",
+        "HABER"
+      ],
+      "correta": 1,
+      "explicacao": "SER + profesión"
+    },
+    {
+      "pergunta": "'Vivo en Madrid' - VIVIR significa:",
+      "opcoes": [
+        "Vivir",
+        "Morar",
+        "Visitar",
+        "Ir"
+      ],
+      "correta": 1,
+      "explicacao": "Vivir = morar"
+    },
+    {
+      "pergunta": "'Soy de Brasil' indica:",
+      "opcoes": [
+        "Profesión",
+        "Edad",
+        "Origen",
+        "Estado civil"
+      ],
+      "correta": 2,
+      "explicacao": "SER de + origen"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Presentación Personal.",
+      "respostaModelo": "En esta lección aprendí sobre Presentación Personal. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Presentación Personal en español?",
+      "respostaModelo": "Presentación Personal es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Música Latina 🎵",
+      "texto": "Reggaetón, salsa, bachata... la música latina domina el mundo."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Presentación Personal. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 6!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Presentación Personal.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

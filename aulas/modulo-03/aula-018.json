@@ -1,0 +1,317 @@
+{
+  "id": 18,
+  "titulo": "Artículos Indefinidos",
+  "modulo": {
+    "numero": 3,
+    "nome": "Artículos y Sustantivos"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Artículos Indefinidos",
+      "texto": "Los artículos en español concuerdan en género y número con el sustantivo."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Artículos Indefinidos",
+      "texto": "**Definidos:**\nel (masc. sing.), la (fem. sing.)\nlos (masc. pl.), las (fem. pl.)\n\n**Indefinidos:**\nun (masc.), una (fem.)\nunos (masc. pl.), unas (fem. pl.)\n\n**Contracciones:**\na + el = AL\nde + el = DEL",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Artículos Indefinidos.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "El",
+      "pt": "O",
+      "pron": "[el]",
+      "exemplo": "El libro es nuevo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "La",
+      "pt": "A",
+      "pron": "[la]",
+      "exemplo": "La casa es grande.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Un",
+      "pt": "Um",
+      "pron": "[un]",
+      "exemplo": "Un carro rojo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Una",
+      "pt": "Uma",
+      "pron": "[úna]",
+      "exemplo": "Una mesa bonita.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Los",
+      "pt": "Os",
+      "pron": "[los]",
+      "exemplo": "Los libros están aquí.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "Los artículos definidos son:",
+      "opcoes": [
+        "Un, una, unos, unas",
+        "El, la, los, las",
+        "A, de, en, con",
+        "Yo, tú, él, ella"
+      ],
+      "correta": 1,
+      "explicacao": "El, la, los, las"
+    },
+    {
+      "pergunta": "Los artículos indefinidos son:",
+      "opcoes": [
+        "Un, una, unos, unas",
+        "El, la, los, las",
+        "A, de, en, con",
+        "Yo, tú, él, ella"
+      ],
+      "correta": 0,
+      "explicacao": "Un, una, unos, unas"
+    },
+    {
+      "pergunta": "'El' se usa con sustantivos:",
+      "opcoes": [
+        "Femeninos singulares",
+        "Masculinos singulares",
+        "Femeninos plurales",
+        "Masculinos plurales"
+      ],
+      "correta": 1,
+      "explicacao": "El + masc. sing."
+    },
+    {
+      "pergunta": "'Las' se usa con sustantivos:",
+      "opcoes": [
+        "Femeninos singulares",
+        "Masculinos singulares",
+        "Femeninos plurales",
+        "Masculinos plurales"
+      ],
+      "correta": 2,
+      "explicacao": "Las + fem. plural"
+    },
+    {
+      "pergunta": "¿Cuántas contracciones hay?",
+      "opcoes": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "correta": 1,
+      "explicacao": "Dos: al, del"
+    },
+    {
+      "pergunta": "'___ problema' - artículo:",
+      "opcoes": [
+        "La",
+        "El",
+        "Una",
+        "Las"
+      ],
+      "correta": 1,
+      "explicacao": "El problema (masc.)"
+    },
+    {
+      "pergunta": "'___ foto' - artículo:",
+      "opcoes": [
+        "El",
+        "La",
+        "Un",
+        "Los"
+      ],
+      "correta": 1,
+      "explicacao": "La foto (fem.)"
+    },
+    {
+      "pergunta": "'___ mapa' - artículo:",
+      "opcoes": [
+        "La",
+        "El",
+        "Una",
+        "Las"
+      ],
+      "correta": 1,
+      "explicacao": "El mapa (masc.)"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Artículos Indefinidos.",
+      "respostaModelo": "En esta lección aprendí sobre Artículos Indefinidos. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Artículos Indefinidos en español?",
+      "respostaModelo": "Artículos Indefinidos es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "Comida Tarde 🍽️",
+      "texto": "En España se cena entre las 21:00 y 22:00."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Artículos Indefinidos. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 18!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Artículos Indefinidos.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": 15,
+  "titulo": "Las Horas",
+  "modulo": {
+    "numero": 2,
+    "nome": "Números y Tiempo"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Las Horas",
+      "texto": "En español las horas usan 'ser' y concuerdan en número: es la una, son las dos."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Las Horas",
+      "texto": "**Horas:**\n• Es la una (1:00)\n• Son las dos/tres... (2:00+)\n\n**Minutos:**\n• y cinco, y diez...\n• y cuarto (15), y media (30)\n• menos cuarto (45)\n\n**Preguntar:**\n¿Qué hora es?\n¿A qué hora?",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Las Horas.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Número",
+      "pt": "Número",
+      "pron": "[número]",
+      "exemplo": "¿Cuál es tu número?",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Contar",
+      "pt": "Contar",
+      "pron": "[kontár]",
+      "exemplo": "Vamos a contar.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Más",
+      "pt": "Mais",
+      "pron": "[más]",
+      "exemplo": "Dos más dos.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Menos",
+      "pt": "Menos",
+      "pron": "[ménos]",
+      "exemplo": "Cinco menos tres.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Cuánto",
+      "pt": "Quanto",
+      "pron": "[kuánto]",
+      "exemplo": "¿Cuánto cuesta?",
+      "categoria": "interrogativo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "UNO → UN",
+      "explicacao": "Antes de masculino: un.",
+      "exemplos": [
+        "un libro",
+        "una casa"
+      ],
+      "dica": "Como en portugués"
+    },
+    {
+      "regra": "21-29 una palabra",
+      "explicacao": "Se escriben juntos.",
+      "exemplos": [
+        "veintiuno",
+        "veintidós"
+      ],
+      "dica": "veinti+número"
+    },
+    {
+      "regra": "30-99 con Y",
+      "explicacao": "Tres palabras con Y.",
+      "exemplos": [
+        "treinta y uno"
+      ],
+      "dica": "Como en portugués"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "'Es la una' usa 'es' porque:",
+      "opcoes": [
+        "Es error",
+        "Una es singular",
+        "Es formal",
+        "Es tarde"
+      ],
+      "correta": 1,
+      "explicacao": "Una = singular = es"
+    },
+    {
+      "pergunta": "'Son las tres' usa 'son' porque:",
+      "opcoes": [
+        "Es plural",
+        "Es formal",
+        "Es mañana",
+        "Es error"
+      ],
+      "correta": 0,
+      "explicacao": "Plural = son"
+    },
+    {
+      "pergunta": "'Y cuarto' significa:",
+      "opcoes": [
+        ":15",
+        ":25",
+        ":30",
+        ":45"
+      ],
+      "correta": 0,
+      "explicacao": "Y cuarto = :15"
+    },
+    {
+      "pergunta": "'Y media' significa:",
+      "opcoes": [
+        ":15",
+        ":20",
+        ":30",
+        ":45"
+      ],
+      "correta": 2,
+      "explicacao": "Y media = :30"
+    },
+    {
+      "pergunta": "'Menos cuarto' significa:",
+      "opcoes": [
+        ":15",
+        ":30",
+        ":45",
+        ":50"
+      ],
+      "correta": 2,
+      "explicacao": "Menos cuarto = :45"
+    },
+    {
+      "pergunta": "Para preguntar la hora:",
+      "opcoes": [
+        "¿Cuántas horas?",
+        "¿Qué hora es?",
+        "¿Cuál hora?",
+        "¿La hora?"
+      ],
+      "correta": 1,
+      "explicacao": "¿Qué hora es?"
+    },
+    {
+      "pergunta": "8:30 de la mañana:",
+      "opcoes": [
+        "Son las ocho y treinta",
+        "Son las ocho y media",
+        "Es las ocho media",
+        "Las ocho medias"
+      ],
+      "correta": 1,
+      "explicacao": "Y media = :30"
+    },
+    {
+      "pergunta": "'A las cinco' responde a:",
+      "opcoes": [
+        "¿Qué hora es?",
+        "¿A qué hora?",
+        "¿Cuántas?",
+        "¿Por qué?"
+      ],
+      "correta": 1,
+      "explicacao": "¿A qué hora? = cuándo"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Las Horas.",
+      "respostaModelo": "En esta lección aprendí sobre Las Horas. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Las Horas en español?",
+      "respostaModelo": "Las Horas es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "El Voseo 🇦🇷",
+      "texto": "En Argentina y Uruguay se usa 'vos' en lugar de 'tú'."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Las Horas. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 15!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Las Horas.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

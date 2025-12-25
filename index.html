@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#059669">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Español Virtual">
+    <meta name="description" content="Aprenda espanhol do zero ao avançado - 200 aulas gratuitas">
+    
+    <title>Español Virtual - Aprenda Espanhol</title>
+    
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <link rel="icon" href="icons/icon-192.png">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">🇪🇸</span>
+                <span>Español Virtual</span>
+            </div>
+            <div class="stats">
+                <div class="stat">
+                    📚 <span id="headerLesson">1</span>/200
+                </div>
+                <div class="stat">
+                    🎯 <span id="headerLevel">Básico</span>
+                </div>
+                <div class="stat">
+                    ⭐ <span id="headerAvg">--</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab-btn active" data-tab="aula">📖 Aula</button>
+        <button class="tab-btn" data-tab="curso">📚 Todas as Aulas</button>
+        <button class="tab-btn" data-tab="sofia">💬 Chat</button>
+        <button class="tab-btn" data-tab="notas">📊 Notas</button>
+    </nav>
+
+    <main class="main">
+        <div class="content">
+            
+            <!-- LESSON TAB -->
+            <div id="tab-aula" class="tab-panel active">
+                <div style="text-align:center;padding:3rem;">
+                    <div style="font-size:2rem;margin-bottom:1rem;">📚</div>
+                    <p>Carregando aula...</p>
+                </div>
+            </div>
+
+            <!-- COURSE TAB - ALL LESSONS VISIBLE -->
+            <div id="tab-curso" class="tab-panel">
+                <div class="course-header">
+                    <h2>📚 Escolha Qualquer Aula</h2>
+                    <p>Todas as 200 aulas estão disponíveis - clique em qualquer uma!</p>
+                </div>
+                <div id="courseGrid"></div>
+            </div>
+
+            <!-- CHAT TAB -->
+            <div id="tab-sofia" class="tab-panel">
+                <div class="chat-container">
+                    <div class="chat-header">
+                        <div class="chat-avatar">👩‍🏫</div>
+                        <div class="chat-info">
+                            <h4>Sofía</h4>
+                            <span>🟢 Online - Pronta para praticar!</span>
+                        </div>
+                    </div>
+                    <div class="chat-messages" id="chatMessages">
+                        <div class="chat-msg sofia">
+                            <p>¡Hola! Soy Sofía, tu compañera de práctica. 😊</p>
+                            <small>Olá! Sou Sofía, sua parceira de prática.</small>
+                        </div>
+                        <div class="chat-msg sofia">
+                            <p>Escribe en español y te ayudaré a mejorar. ¿Cómo te llamas?</p>
+                            <small>Escreva em espanhol e te ajudo a melhorar. Como você se chama?</small>
+                        </div>
+                    </div>
+                    <div class="chat-input-area">
+                        <input type="text" class="chat-input" id="chatInput" 
+                               placeholder="Escribe en español..." 
+                               onkeypress="handleChatKey(event)">
+                        <button class="chat-send" onclick="sendChat()">➤</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRADES TAB -->
+            <div id="tab-notas" class="tab-panel">
+                <div class="course-header">
+                    <h2>📊 Suas Notas</h2>
+                    <p>Acompanhe seu progresso aqui</p>
+                </div>
+                <div id="gradesContainer"></div>
+            </div>
+
+        </div>
+    </main>
+
+    <div class="install-banner" id="installBanner">
+        <p>📱 Instale o app para melhor experiência!</p>
+        <button onclick="installApp()">Instalar</button>
+        <button class="dismiss" onclick="dismissInstall()">Depois</button>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

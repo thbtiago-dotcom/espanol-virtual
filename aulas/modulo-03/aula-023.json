@@ -1,0 +1,282 @@
+{
+  "id": 23,
+  "titulo": "Contracciones: AL y DEL",
+  "modulo": {
+    "numero": 3,
+    "nome": "Artículos y Sustantivos"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Contracciones: AL y DEL",
+      "texto": "En esta lección estudiaremos Contracciones: AL y DEL. Es un tema importante para tu aprendizaje del español."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Contracciones: AL y DEL",
+      "texto": "**Puntos principales de Contracciones: AL y DEL:**\n\nEste tema te ayudará a comunicarte mejor en español. Presta atención a los ejemplos y practica mucho.",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Contracciones: AL y DEL.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "SER vs ESTAR",
+      "explicacao": "SER: permanente. ESTAR: temporal.",
+      "exemplos": [
+        "Soy alto",
+        "Estoy cansado"
+      ],
+      "dica": "¿Cambia o no?"
+    },
+    {
+      "regra": "Omisión del sujeto",
+      "explicacao": "El pronombre es opcional.",
+      "exemplos": [
+        "(Yo) Hablo español"
+      ],
+      "dica": "El verbo indica persona"
+    },
+    {
+      "regra": "Adjetivos con género",
+      "explicacao": "Concuerdan con sustantivo.",
+      "exemplos": [
+        "libro nuevo",
+        "casa nueva"
+      ],
+      "dica": "-O/-A según género"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "¿Cuál es el tema de la lección 23?",
+      "opcoes": [
+        "Contracciones: AL y DEL",
+        "Gramática básica",
+        "Vocabulario general",
+        "Conversación libre"
+      ],
+      "correta": 0,
+      "explicacao": "El tema es: Contracciones: AL y DEL"
+    },
+    {
+      "pergunta": "La lección 23 pertenece al módulo:",
+      "opcoes": [
+        "Módulo 3",
+        "Módulo 4",
+        "Módulo 2",
+        "Ninguno"
+      ],
+      "correta": 0,
+      "explicacao": "Módulo 3"
+    },
+    {
+      "pergunta": "¿En qué nivel está la lección 23?",
+      "opcoes": [
+        "Básico (A1-A2)",
+        "Intermedio (B1-B2)",
+        "Avanzado (C1-C2)",
+        "Pre-básico"
+      ],
+      "correta": 0,
+      "explicacao": "Nivel correspondiente"
+    },
+    {
+      "pergunta": "El loísmo es:",
+      "opcoes": [
+        "Muy común",
+        "Incorrecto y raro",
+        "Aceptado",
+        "Normal"
+      ],
+      "correta": 1,
+      "explicacao": "Lo dije (a él)"
+    },
+    {
+      "pergunta": "'Yo hablé' es tiempo:",
+      "opcoes": [
+        "Presente",
+        "Indefinido",
+        "Imperfecto",
+        "Futuro"
+      ],
+      "correta": 1,
+      "explicacao": "Pret. indefinido"
+    },
+    {
+      "pergunta": "'Neologismo' significa palabra:",
+      "opcoes": [
+        "Antigua",
+        "Nueva",
+        "Sin significado",
+        "Extranjera"
+      ],
+      "correta": 1,
+      "explicacao": "Nueva"
+    },
+    {
+      "pergunta": "El español tiene origen:",
+      "opcoes": [
+        "Griego",
+        "Latín",
+        "Árabe",
+        "Celta"
+      ],
+      "correta": 1,
+      "explicacao": "Romance"
+    },
+    {
+      "pergunta": "'Si' introduce:",
+      "opcoes": [
+        "Causa",
+        "Concesión",
+        "Condición",
+        "Adición"
+      ],
+      "correta": 2,
+      "explicacao": "Condicional"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Contracciones: AL y DEL.",
+      "respostaModelo": "En esta lección aprendí sobre Contracciones: AL y DEL. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Contracciones: AL y DEL en español?",
+      "respostaModelo": "Contracciones: AL y DEL es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Tuteo vs Ustedeo 🤝",
+      "texto": "El uso de tú/usted varía mucho entre países."
+    },
+    {
+      "titulo": "La RAE 📖",
+      "texto": "La Real Academia Española (RAE) regula el idioma desde 1713."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países, con más de 500 millones de hablantes."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Contracciones: AL y DEL. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 23!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Contracciones: AL y DEL.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

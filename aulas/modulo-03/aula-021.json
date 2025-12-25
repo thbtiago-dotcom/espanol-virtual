@@ -1,0 +1,317 @@
+{
+  "id": 21,
+  "titulo": "Formación del Plural",
+  "modulo": {
+    "numero": 3,
+    "nome": "Artículos y Sustantivos"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción: Formación del Plural",
+      "texto": "El plural en español se forma añadiendo -S o -ES según la terminación de la palabra."
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Teoría: Formación del Plural",
+      "texto": "**Reglas:**\n• Vocal → +S: casa → casas\n• Consonante → +ES: papel → papeles\n• Z → ces: lápiz → lápices\n\n**Irregulares:**\n• el/los lunes (no cambia)\n• el análisis / los análisis",
+      "lista": []
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Práctica",
+      "texto": "Ahora es tu turno de practicar lo aprendido sobre Formación del Plural.\n\n**Ejercicio 1:** Lee los ejemplos en voz alta.\n**Ejercicio 2:** Crea tus propios ejemplos.\n**Ejercicio 3:** Usa el vocabulario en frases originales.\n**Ejercicio 4:** Revisa las reglas gramaticales.\n\n¡La práctica constante es la clave del éxito!"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "El",
+      "pt": "O",
+      "pron": "[el]",
+      "exemplo": "El libro es nuevo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "La",
+      "pt": "A",
+      "pron": "[la]",
+      "exemplo": "La casa es grande.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Un",
+      "pt": "Um",
+      "pron": "[un]",
+      "exemplo": "Un carro rojo.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Una",
+      "pt": "Uma",
+      "pron": "[úna]",
+      "exemplo": "Una mesa bonita.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Los",
+      "pt": "Os",
+      "pron": "[los]",
+      "exemplo": "Los libros están aquí.",
+      "categoria": "artículo"
+    },
+    {
+      "es": "Importante",
+      "pt": "Importante",
+      "pron": "[importánte]",
+      "exemplo": "Es muy importante.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Fácil",
+      "pt": "Fácil",
+      "pron": "[fásil]",
+      "exemplo": "El español es fácil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Difícil",
+      "pt": "Difícil",
+      "pron": "[difísil]",
+      "exemplo": "No es difícil.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Bueno",
+      "pt": "Bom",
+      "pron": "[buéno]",
+      "exemplo": "Es un libro bueno.",
+      "categoria": "adjetivo"
+    },
+    {
+      "es": "Nuevo",
+      "pt": "Novo",
+      "pron": "[nuébo]",
+      "exemplo": "Es nuevo.",
+      "categoria": "adjetivo"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "Contracciones",
+      "explicacao": "AL = a + el, DEL = de + el.",
+      "exemplos": [
+        "Voy al cine",
+        "Vengo del trabajo"
+      ],
+      "dica": "Solo con EL"
+    },
+    {
+      "regra": "Género",
+      "explicacao": "Artículo concuerda con sustantivo.",
+      "exemplos": [
+        "el libro",
+        "la casa"
+      ],
+      "dica": "Verifica el género"
+    },
+    {
+      "regra": "Número",
+      "explicacao": "Singular/plural.",
+      "exemplos": [
+        "el libro / los libros"
+      ],
+      "dica": "Añade -S o -ES"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "El plural de 'libro' es:",
+      "opcoes": [
+        "Libros",
+        "Libroes",
+        "Libras",
+        "Libres"
+      ],
+      "correta": 0,
+      "explicacao": "Vocal + S = libros"
+    },
+    {
+      "pergunta": "El plural de 'papel' es:",
+      "opcoes": [
+        "Papels",
+        "Papeles",
+        "Papéles",
+        "Papeis"
+      ],
+      "correta": 1,
+      "explicacao": "Consonante + ES = papeles"
+    },
+    {
+      "pergunta": "El plural de 'lápiz' es:",
+      "opcoes": [
+        "Lápizes",
+        "Lápices",
+        "Lápiçes",
+        "Lápizs"
+      ],
+      "correta": 1,
+      "explicacao": "Z → CES = lápices"
+    },
+    {
+      "pergunta": "El plural de 'lunes' es:",
+      "opcoes": [
+        "Luneses",
+        "Lunes",
+        "Lune",
+        "Los lune"
+      ],
+      "correta": 1,
+      "explicacao": "Días en -ES no cambian"
+    },
+    {
+      "pergunta": "El plural de 'café' es:",
+      "opcoes": [
+        "Café",
+        "Cafés",
+        "Cafees",
+        "Cafeses"
+      ],
+      "correta": 1,
+      "explicacao": "Vocal acentuada + S = cafés"
+    },
+    {
+      "pergunta": "'Los análisis' - análisis es:",
+      "opcoes": [
+        "Singular",
+        "Plural",
+        "Ambos",
+        "Ninguno"
+      ],
+      "correta": 2,
+      "explicacao": "Palabras en -IS no cambian"
+    },
+    {
+      "pergunta": "El artículo también cambia:",
+      "opcoes": [
+        "Nunca",
+        "Siempre",
+        "A veces",
+        "Solo masculinos"
+      ],
+      "correta": 1,
+      "explicacao": "El→Los, La→Las"
+    },
+    {
+      "pergunta": "Palabras extranjeras en -S:",
+      "opcoes": [
+        "Añaden -ES",
+        "Añaden -S",
+        "No cambian",
+        "Depende"
+      ],
+      "correta": 2,
+      "explicacao": "Club→clubs o clubes"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Eu sou brasileiro",
+          "resposta": "Soy brasileño",
+          "explicacao": "Soy + nacionalidad"
+        },
+        {
+          "pergunta": "Tenho 25 anos",
+          "resposta": "Tengo 25 años",
+          "explicacao": "Edad con TENER"
+        },
+        {
+          "pergunta": "Moro em Madrid",
+          "resposta": "Vivo en Madrid",
+          "explicacao": "Vivir = morar"
+        },
+        {
+          "pergunta": "Gosto de música",
+          "resposta": "Me gusta la música",
+          "explicacao": "Me gusta + artículo"
+        },
+        {
+          "pergunta": "Estou bem",
+          "resposta": "Estoy bien",
+          "explicacao": "Estado con ESTAR"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica con tus palabras lo que aprendiste sobre Formación del Plural.",
+      "respostaModelo": "En esta lección aprendí sobre Formación del Plural. Los puntos principales incluyen...",
+      "pontosPrincipais": [
+        "Concepto principal",
+        "Ejemplos",
+        "Aplicación práctica"
+      ]
+    },
+    {
+      "pergunta": "¿Por qué es importante dominar Formación del Plural en español?",
+      "respostaModelo": "Formación del Plural es importante porque nos permite comunicarnos mejor y entender el idioma de forma más profunda.",
+      "pontosPrincipais": [
+        "Comunicación",
+        "Comprensión",
+        "Fluidez"
+      ]
+    },
+    {
+      "pergunta": "Da dos ejemplos prácticos de lo que aprendiste.",
+      "respostaModelo": "Ejemplo 1: [contexto específico]. Ejemplo 2: [otro contexto].",
+      "pontosPrincipais": [
+        "Ejemplo 1",
+        "Ejemplo 2",
+        "Contexto de uso"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "Español vs Castellano 🗣️",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    },
+    {
+      "titulo": "La Siesta 😴",
+      "texto": "La siesta es tradición española, aunque cada vez menos practicada."
+    },
+    {
+      "titulo": "El Fútbol ⚽",
+      "texto": "El fútbol es pasión nacional en España y Latinoamérica."
+    }
+  ],
+  "resumo": "En esta lección aprendiste sobre Formación del Plural. Recuerda practicar regularmente y revisar el vocabulario. ¡Cada día estás más cerca de dominar el español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 21!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: Formación del Plural.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}

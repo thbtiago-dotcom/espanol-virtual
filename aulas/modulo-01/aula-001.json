@@ -1,0 +1,370 @@
+{
+  "id": 1,
+  "titulo": "El Alfabeto Español",
+  "modulo": {
+    "numero": 1,
+    "nome": "Fundamentos del Español"
+  },
+  "nivel": "Básico (A1-A2)",
+  "duracao": "45-60 min",
+  "conteudo": [
+    {
+      "tipo": "intro",
+      "titulo": "📘 Introducción al Alfabeto Español",
+      "texto": "¡Bienvenido a tu primera clase de español! El español es una de las lenguas más habladas del mundo, con más de 500 millones de hablantes nativos en 21 países.\n\nEl alfabeto español tiene **27 letras**: las 26 del alfabeto latino más la **Ñ**, que es exclusiva del español. A diferencia del inglés, el español es muy fonético - las palabras se pronuncian como se escriben.\n\nLas principales diferencias para brasileños:\n• La **H** es siempre muda\n• La **J** suena fuerte (como R de 'rato')\n• **B** y **V** suenan igual\n• **LL** suena como Y\n• La **Ñ** = NH del portugués"
+    },
+    {
+      "tipo": "teoria",
+      "titulo": "📚 Las 27 Letras",
+      "texto": "El alfabeto español completo:\n\n**A** (a), **B** (be), **C** (ce), **D** (de), **E** (e), **F** (efe), **G** (ge), **H** (hache), **I** (i), **J** (jota), **K** (ka), **L** (ele), **M** (eme), **N** (ene), **Ñ** (eñe), **O** (o), **P** (pe), **Q** (cu), **R** (erre), **S** (ese), **T** (te), **U** (u), **V** (uve), **W** (uve doble), **X** (equis), **Y** (ye), **Z** (zeta)\n\n**Letras especiales:**\n• **Ñ** - Sonido de NH: España, niño, año\n• **H** - Siempre muda: hola [óla], hacer [asér]\n• **J** - Sonido fuerte: jamón, jardín\n• **LL** - Sonido de Y: calle [káye], lluvia [yúbia]",
+      "lista": [
+        "A-E: Vocales siempre con sonido puro",
+        "B=V: Mismo sonido",
+        "C: Suena S antes de E/I, K antes de A/O/U",
+        "G: Suena J antes de E/I, G normal antes de A/O/U",
+        "H: Siempre muda",
+        "J: Siempre sonido fuerte",
+        "Ñ: Como NH portugués",
+        "Z: Suena como S en Latinoamérica"
+      ]
+    },
+    {
+      "tipo": "destaque",
+      "titulo": "⚠️ La Letra Ñ - Símbolo del Español",
+      "texto": "La **Ñ** es el símbolo más reconocible del español. Surgió en la Edad Media cuando los escribanos abreviaban 'nn' con una n y una tilde (~).\n\n**Palabras esenciales con Ñ:**\n• España (Espanha em PT)\n• año (ano em PT)\n• niño (menino em PT)\n• mañana (amanhã em PT)\n• señor (senhor em PT)\n• pequeño (pequeno em PT)\n\n**¡Cuidado!** N y Ñ cambian el significado:\n• ano ≠ año\n• pena ≠ peña"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "🇧🇷🇪🇸 Português vs Español",
+      "texto": "**Portugués tiene, español NO tiene:**\n• Ç (cedilha) → ES usa Z o C+E/I: coração → corazón\n\n**Español tiene, portugués NO tiene:**\n• Ñ → PT usa NH: España → Espanha\n\n**Letras que cambian:**\n• H: ES siempre muda, PT a veces suena\n• V: ES = B, PT son diferentes\n• J: ES = R fuerte, PT = J suave\n• Z: ES (Latam) = S, PT = Z"
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "✍️ Practica la Pronunciación",
+      "texto": "Lee en voz alta:\n\n**H muda:** hola [óla], hacer [asér], hijo [íjo]\n**J fuerte:** jamón, jardín, viaje\n**Ñ:** España, niño, mañana\n**LL:** calle [káye], lluvia [yúbia]\n**B=V:** baca = vaca (mismo sonido)"
+    }
+  ],
+  "vocabulario": [
+    {
+      "es": "Alfabeto",
+      "pt": "Alfabeto",
+      "pron": "[alfabéto]",
+      "exemplo": "El alfabeto español tiene 27 letras.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Letra",
+      "pt": "Letra",
+      "pron": "[létra]",
+      "exemplo": "La Ñ es una letra especial.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Palabra",
+      "pt": "Palavra",
+      "pron": "[palábra]",
+      "exemplo": "Esta palabra es nueva.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Pronunciar",
+      "pt": "Pronunciar",
+      "pron": "[pronunsiár]",
+      "exemplo": "¿Cómo se pronuncia?",
+      "categoria": "verbo"
+    },
+    {
+      "es": "Escribir",
+      "pt": "Escrever",
+      "pron": "[eskribír]",
+      "exemplo": "Voy a escribir.",
+      "categoria": "verbo"
+    },
+    {
+      "es": "España",
+      "pt": "Espanha",
+      "pron": "[espáña]",
+      "exemplo": "España está en Europa.",
+      "categoria": "nombre propio"
+    },
+    {
+      "es": "Año",
+      "pt": "Ano",
+      "pron": "[áño]",
+      "exemplo": "El año tiene 12 meses.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Niño",
+      "pt": "Menino",
+      "pron": "[níño]",
+      "exemplo": "El niño juega.",
+      "categoria": "sustantivo"
+    },
+    {
+      "es": "Mañana",
+      "pt": "Amanhã/Manhã",
+      "pron": "[mañána]",
+      "exemplo": "Mañana es lunes.",
+      "categoria": "adverbio"
+    },
+    {
+      "es": "Hola",
+      "pt": "Olá",
+      "pron": "[óla]",
+      "exemplo": "¡Hola! ¿Qué tal?",
+      "categoria": "interjección"
+    }
+  ],
+  "gramatica": [
+    {
+      "regra": "H siempre muda",
+      "explicacao": "La H nunca se pronuncia en español.",
+      "exemplos": [
+        "hola [óla]",
+        "hacer [asér]",
+        "hijo [íjo]"
+      ],
+      "dica": "Ignora la H al pronunciar"
+    },
+    {
+      "regra": "B = V",
+      "explicacao": "B y V suenan exactamente igual.",
+      "exemplos": [
+        "baca = vaca",
+        "beber, vivir"
+      ],
+      "dica": "Memoriza la ortografía"
+    },
+    {
+      "regra": "J siempre fuerte",
+      "explicacao": "J suena como R fuerte de portugués.",
+      "exemplos": [
+        "jamón",
+        "jardín",
+        "viaje"
+      ],
+      "dica": "Piensa en R de 'rato'"
+    }
+  ],
+  "teste": [
+    {
+      "pergunta": "¿Cuántas letras tiene el alfabeto español?",
+      "opcoes": [
+        "26",
+        "27",
+        "28",
+        "30"
+      ],
+      "correta": 1,
+      "explicacao": "27 letras (26 + Ñ)"
+    },
+    {
+      "pergunta": "¿Qué letra es exclusiva del español?",
+      "opcoes": [
+        "Ç",
+        "Ñ",
+        "LL",
+        "CH"
+      ],
+      "correta": 1,
+      "explicacao": "La Ñ es exclusiva del español"
+    },
+    {
+      "pergunta": "¿Cómo se pronuncia 'hola'?",
+      "opcoes": [
+        "[hóla]",
+        "[óla]",
+        "[jóla]",
+        "[róla]"
+      ],
+      "correta": 1,
+      "explicacao": "H es muda, se pronuncia [óla]"
+    },
+    {
+      "pergunta": "¿Cómo suena la J en español?",
+      "opcoes": [
+        "Suave como en portugués",
+        "Fuerte, como R",
+        "Como CH",
+        "Es muda"
+      ],
+      "correta": 1,
+      "explicacao": "J suena fuerte en español"
+    },
+    {
+      "pergunta": "B y V en español:",
+      "opcoes": [
+        "Suenan diferente",
+        "Suenan igual",
+        "V es más suave",
+        "B no se usa"
+      ],
+      "correta": 1,
+      "explicacao": "B = V en español"
+    },
+    {
+      "pergunta": "¿Cómo suena LL en español?",
+      "opcoes": [
+        "Como L doble",
+        "Como Y",
+        "Como LH",
+        "Es muda"
+      ],
+      "correta": 1,
+      "explicacao": "LL = Y en la mayoría de países"
+    },
+    {
+      "pergunta": "La Ñ suena como:",
+      "opcoes": [
+        "N simple",
+        "NH en portugués",
+        "GN en italiano",
+        "NG en inglés"
+      ],
+      "correta": 1,
+      "explicacao": "Ñ = NH portugués"
+    },
+    {
+      "pergunta": "La palabra 'España' tiene:",
+      "opcoes": [
+        "Una N",
+        "Una Ñ",
+        "Dos Ns",
+        "NH"
+      ],
+      "correta": 1,
+      "explicacao": "España se escribe con Ñ"
+    }
+  ],
+  "exerciciosEscritos": [
+    {
+      "tipo": "completar",
+      "instrucao": "Completa con N o Ñ:",
+      "questoes": [
+        {
+          "pergunta": "Espa__a",
+          "resposta": "ñ",
+          "explicacao": "España"
+        },
+        {
+          "pergunta": "a__o",
+          "resposta": "ñ",
+          "explicacao": "año"
+        },
+        {
+          "pergunta": "ni__o",
+          "resposta": "ñ",
+          "explicacao": "niño"
+        },
+        {
+          "pergunta": "cami__o",
+          "resposta": "n",
+          "explicacao": "camino (N simple)"
+        },
+        {
+          "pergunta": "ma__ana",
+          "resposta": "ñ",
+          "explicacao": "mañana"
+        }
+      ]
+    },
+    {
+      "tipo": "traducao",
+      "instrucao": "Traduce al español:",
+      "questoes": [
+        {
+          "pergunta": "Espanha",
+          "resposta": "España",
+          "explicacao": "NH → Ñ"
+        },
+        {
+          "pergunta": "Menino",
+          "resposta": "Niño",
+          "explicacao": "Ñ"
+        },
+        {
+          "pergunta": "Olá",
+          "resposta": "Hola",
+          "explicacao": "H muda"
+        },
+        {
+          "pergunta": "Fazer",
+          "resposta": "Hacer",
+          "explicacao": "H muda"
+        },
+        {
+          "pergunta": "Presunto",
+          "resposta": "Jamón",
+          "explicacao": "J fuerte"
+        }
+      ]
+    }
+  ],
+  "exerciciosDescritivos": [
+    {
+      "pergunta": "Explica por qué la H es 'muda' en español.",
+      "respostaModelo": "La H es muda porque nunca se pronuncia. Existe solo por razones históricas. Ejemplos: 'hola' = [óla], 'hacer' = [asér].",
+      "pontosPrincipais": [
+        "Nunca se pronuncia",
+        "Razones históricas",
+        "Ejemplos"
+      ]
+    },
+    {
+      "pergunta": "¿Cuál es la diferencia entre B y V en español vs portugués?",
+      "respostaModelo": "En portugués B y V tienen sonidos diferentes. En español suenan exactamente igual - ambas como B. Por eso los españoles memorizan la ortografía.",
+      "pontosPrincipais": [
+        "PT: diferentes",
+        "ES: iguales",
+        "Memorización"
+      ]
+    },
+    {
+      "pergunta": "Describe cómo la C cambia de sonido.",
+      "respostaModelo": "C + E/I suena como S (cena, cine). C + A/O/U suena como K (casa, coco). Es una 'letra camaleón'.",
+      "pontosPrincipais": [
+        "C+E/I = S",
+        "C+A/O/U = K",
+        "Ejemplos"
+      ]
+    }
+  ],
+  "dicasCulturais": [
+    {
+      "titulo": "La Ñ es Patrimonio 🏛️",
+      "texto": "La Ñ es tan importante que hubo protestas cuando la UE quiso eliminarla de los teclados en 1991."
+    },
+    {
+      "titulo": "21 Países 🌎",
+      "texto": "El español es oficial en 21 países: España + 19 en América + Guinea Ecuatorial."
+    },
+    {
+      "titulo": "Español vs Castellano 🤔",
+      "texto": "Ambos nombres son correctos para el mismo idioma."
+    }
+  ],
+  "resumo": "Aprendiste las 27 letras del alfabeto español, con la Ñ exclusiva. H muda, J fuerte, B=V, LL=Y. ¡Ya puedes empezar a leer español!",
+  "audio": [
+    {
+      "text": "¡Bienvenido a la lección 1!",
+      "pause": 1500
+    },
+    {
+      "text": "Hoy estudiaremos: El Alfabeto Español.",
+      "pause": 2000
+    },
+    {
+      "text": "Presta atención a las explicaciones.",
+      "pause": 1500
+    },
+    {
+      "text": "Toma notas de los puntos importantes.",
+      "pause": 1500
+    },
+    {
+      "text": "¡Mucho éxito!",
+      "pause": 1500
+    }
+  ]
+}
