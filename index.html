@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#059669">
+    <meta name="description" content="Aprenda espanhol do zero ao avançado com 200 aulas gratuitas">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Español Virtual">
+    
+    <title>Español Virtual - Escola de Idiomas</title>
+    
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="icons/icon-192.png">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Splash Screen -->
+    <div class="splash-screen" id="splashScreen">
+        <div class="splash-content">
+            <div class="splash-logo">🇪🇸</div>
+            <h1 class="splash-title">Español Virtual</h1>
+            <p class="splash-subtitle">200 aulas • A1 ao C2</p>
+            <div class="splash-loader"></div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">🇪🇸</span>
+                <span class="logo-text">Español Virtual</span>
+            </div>
+            <div class="header-stats">
+                <span class="stat" id="statProgress">📚 0/200</span>
+                <span class="stat" id="statMedia">⭐ --</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+        <button class="tab-btn active" data-tab="aula" onclick="switchTab('aula')">
+            <span class="tab-icon">📖</span>
+            <span class="tab-label">Aula</span>
+        </button>
+        <button class="tab-btn" data-tab="curso" onclick="switchTab('curso')">
+            <span class="tab-icon">📚</span>
+            <span class="tab-label">Curso</span>
+        </button>
+        <button class="tab-btn" data-tab="sofia" onclick="switchTab('sofia')">
+            <span class="tab-icon">💬</span>
+            <span class="tab-label">Sofía</span>
+        </button>
+        <button class="tab-btn" data-tab="notas" onclick="switchTab('notas')">
+            <span class="tab-icon">📊</span>
+            <span class="tab-label">Notas</span>
+        </button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        
+        <!-- Tab: Aula -->
+        <div id="tab-aula" class="tab-panel active">
+            <div class="lesson-navigation">
+                <button class="nav-btn" onclick="prevLesson()" id="btnPrev">← Anterior</button>
+                <span class="lesson-number" id="lessonNumber">Aula 1/200</span>
+                <button class="nav-btn" onclick="nextLesson()" id="btnNext">Próxima →</button>
+            </div>
+            
+            <div class="lesson-container" id="lessonContainer">
+                <div class="loading-state">
+                    <div class="spinner"></div>
+                    <p>Carregando aula...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab: Curso -->
+        <div id="tab-curso" class="tab-panel">
+            <div class="course-header">
+                <h2>📚 Estrutura do Curso</h2>
+                <p>200 aulas do básico ao avançado</p>
+            </div>
+            <div class="course-overview" id="courseOverview">
+                <div class="loading-state">
+                    <div class="spinner"></div>
+                    <p>Carregando curso...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab: Sofía -->
+        <div id="tab-sofia" class="tab-panel">
+            <div class="chat-container">
+                <div class="chat-header">
+                    <div class="sofia-avatar">👩‍🏫</div>
+                    <div class="sofia-info">
+                        <h3>Sofía</h3>
+                        <span class="sofia-status">🟢 Online</span>
+                    </div>
+                </div>
+                
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message sofia">
+                        <div class="message-content">
+                            <p class="msg-es">¡Hola! Soy Sofía, tu compañera de conversación. 😊</p>
+                            <p class="msg-pt">Olá! Sou Sofía, sua parceira de conversação.</p>
+                        </div>
+                    </div>
+                    <div class="message sofia">
+                        <div class="message-content">
+                            <p class="msg-es">Escribe en español y yo te ayudo a practicar. ¿Cómo te llamas?</p>
+                            <p class="msg-pt">Escreva em espanhol e eu te ajudo a praticar. Como você se chama?</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-input-area">
+                    <input type="text" class="chat-input" id="chatInput" 
+                           placeholder="Escribe en español..." 
+                           onkeypress="handleChatKeypress(event)">
+                    <button class="send-btn" onclick="sendChatMessage()">➤</button>
+                </div>
+            </div>
+            
+            <div class="sofia-tip">
+                <strong>💡 Dica:</strong> A Sofía corrige seus erros e dá nota de 0 a 10. 
+                Pratique o conteúdo da aula atual!
+            </div>
+        </div>
+
+        <!-- Tab: Notas -->
+        <div id="tab-notas" class="tab-panel">
+            <div class="grades-header">
+                <h2>📊 Suas Notas</h2>
+                <p>Acompanhe seu progresso</p>
+            </div>
+            <div class="grades-summary" id="gradesSummary">
+                <div class="summary-card">
+                    <span class="summary-value" id="totalLessons">0</span>
+                    <span class="summary-label">Aulas Concluídas</span>
+                </div>
+                <div class="summary-card">
+                    <span class="summary-value" id="avgGrade">--</span>
+                    <span class="summary-label">Média Geral</span>
+                </div>
+            </div>
+            <div class="grades-list" id="gradesList">
+                <div class="empty-state">
+                    <div class="empty-icon">📝</div>
+                    <h3>Nenhuma nota ainda</h3>
+                    <p>Complete os testes para ver suas notas.</p>
+                </div>
+            </div>
+            
+            <div class="grades-actions">
+                <button class="action-btn" onclick="exportProgress()">💾 Exportar Progresso</button>
+                <button class="action-btn" onclick="importProgress()">📤 Importar Progresso</button>
+                <button class="action-btn danger" onclick="resetProgress()">🗑️ Resetar Tudo</button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Install Banner -->
+    <div class="install-banner" id="installBanner">
+        <p>📱 Instale o app para melhor experiência!</p>
+        <div class="install-buttons">
+            <button onclick="installApp()">Instalar</button>
+            <button class="dismiss" onclick="dismissInstall()">Depois</button>
+        </div>
+    </div>
+
+    <!-- Hidden file input for import -->
+    <input type="file" id="importFile" accept=".json" style="display:none" onchange="handleImport(event)">
+
+    <!-- Scripts -->
+    <script src="js/espanol-db.js"></script>
+    <script src="js/sofia-agent.js"></script>
+    <script src="js/validador-dissertativas.js"></script>
+    <script src="js/sync-manager.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+{
+  "titulo": "Español Virtual",
+  "descricao": "Curso completo de espanhol do básico ao avançado",
+  "totalAulas": 200,
+  "niveis": [
+    {
+      "id": "basico",
+      "nome": "Básico",
+      "codigo": "A1-A2",
+      "aulas": "Aulas 1-80",
+      "descricao": "Fundamentos do espanhol: alfabeto, pronúncia, vocabulário básico, verbos essenciais"
+    },
+    {
+      "id": "intermediario",
+      "nome": "Intermediário",
+      "codigo": "B1-B2",
+      "aulas": "Aulas 81-150",
+      "descricao": "Gramática avançada, tempos verbais compostos, expressões idiomáticas"
+    },
+    {
+      "id": "avancado",
+      "nome": "Avançado",
+      "codigo": "C1-C2",
+      "aulas": "Aulas 151-200",
+      "descricao": "Fluência, nuances culturais, espanhol para negócios e acadêmico"
+    }
+  ],
+  "modulos": [
+    { "id": 1, "nome": "Primeiros Passos", "nivel": "basico", "aulas": [1, 2, 3, 4, 5, 6, 7, 8] },
+    { "id": 2, "nome": "Apresentações", "nivel": "basico", "aulas": [9, 10, 11, 12, 13, 14, 15, 16] },
+    { "id": 3, "nome": "Família e Amigos", "nivel": "basico", "aulas": [17, 18, 19, 20, 21, 22, 23, 24] },
+    { "id": 4, "nome": "Números e Datas", "nivel": "basico", "aulas": [25, 26, 27, 28, 29, 30, 31, 32] },
+    { "id": 5, "nome": "Rotina Diária", "nivel": "basico", "aulas": [33, 34, 35, 36, 37, 38, 39, 40] },
+    { "id": 6, "nome": "Comida e Bebida", "nivel": "basico", "aulas": [41, 42, 43, 44, 45, 46, 47, 48] },
+    { "id": 7, "nome": "Compras e Preços", "nivel": "basico", "aulas": [49, 50, 51, 52, 53, 54, 55, 56] },
+    { "id": 8, "nome": "Viagens", "nivel": "basico", "aulas": [57, 58, 59, 60, 61, 62, 63, 64] },
+    { "id": 9, "nome": "Casa e Moradia", "nivel": "basico", "aulas": [65, 66, 67, 68, 69, 70, 71, 72] },
+    { "id": 10, "nome": "Saúde e Corpo", "nivel": "basico", "aulas": [73, 74, 75, 76, 77, 78, 79, 80] },
+    { "id": 11, "nome": "Trabalho e Profissões", "nivel": "intermediario", "aulas": [81, 82, 83, 84, 85, 86, 87, 88] },
+    { "id": 12, "nome": "Educação", "nivel": "intermediario", "aulas": [89, 90, 91, 92, 93, 94, 95, 96] },
+    { "id": 13, "nome": "Tecnologia", "nivel": "intermediario", "aulas": [97, 98, 99, 100, 101, 102, 103, 104] },
+    { "id": 14, "nome": "Meio Ambiente", "nivel": "intermediario", "aulas": [105, 106, 107, 108, 109, 110, 111, 112] },
+    { "id": 15, "nome": "Cultura e Arte", "nivel": "intermediario", "aulas": [113, 114, 115, 116, 117, 118, 119, 120] },
+    { "id": 16, "nome": "Mídia e Notícias", "nivel": "intermediario", "aulas": [121, 122, 123, 124, 125, 126, 127, 128] },
+    { "id": 17, "nome": "Esportes e Lazer", "nivel": "intermediario", "aulas": [129, 130, 131, 132, 133, 134, 135, 136] },
+    { "id": 18, "nome": "Sentimentos e Emoções", "nivel": "intermediario", "aulas": [137, 138, 139, 140, 141, 142, 143, 144] },
+    { "id": 19, "nome": "Tempos Verbais Avançados", "nivel": "intermediario", "aulas": [145, 146, 147, 148, 149, 150] },
+    { "id": 20, "nome": "Negócios e Economia", "nivel": "avancado", "aulas": [151, 152, 153, 154, 155, 156, 157, 158] },
+    { "id": 21, "nome": "Política e Sociedade", "nivel": "avancado", "aulas": [159, 160, 161, 162, 163, 164, 165, 166] },
+    { "id": 22, "nome": "Ciência e Medicina", "nivel": "avancado", "aulas": [167, 168, 169, 170, 171, 172, 173, 174] },
+    { "id": 23, "nome": "Literatura e Escrita", "nivel": "avancado", "aulas": [175, 176, 177, 178, 179, 180, 181, 182] },
+    { "id": 24, "nome": "Expressões Idiomáticas", "nivel": "avancado", "aulas": [183, 184, 185, 186, 187, 188, 189, 190] },
+    { "id": 25, "nome": "Fluência e Conversação", "nivel": "avancado", "aulas": [191, 192, 193, 194, 195, 196, 197, 198, 199, 200] }
+  ]
+}
