@@ -1,0 +1,82 @@
+{
+  "numero": 116,
+  "titulo": "Aula 116: Museus",
+  "modulo": 15,
+  "nivel": "intermediario",
+  "duracao": "15 min",
+  "vocabulario": [
+    {
+      "espanol": "palabra 1",
+      "portugues": "palavra 1"
+    },
+    {
+      "espanol": "palabra 2",
+      "portugues": "palavra 2"
+    },
+    {
+      "espanol": "palabra 3",
+      "portugues": "palavra 3"
+    },
+    {
+      "espanol": "palabra 4",
+      "portugues": "palavra 4"
+    },
+    {
+      "espanol": "palabra 5",
+      "portugues": "palavra 5"
+    }
+  ],
+  "gramatica": {
+    "titulo": "Gramática - Museus",
+    "explicacao": "Nesta aula vamos aprender sobre museus em espanhol. Este é um tema importante para a comunicação.",
+    "exemplos": [
+      {
+        "espanol": "Este es un ejemplo.",
+        "portugues": "Este é um exemplo."
+      },
+      {
+        "espanol": "Otro ejemplo aquí.",
+        "portugues": "Outro exemplo aqui."
+      }
+    ]
+  },
+  "dialogo": [
+    {
+      "pessoa": "Ana",
+      "espanol": "¡Hola! ¿Cómo estás?",
+      "portugues": "Olá! Como você está?"
+    },
+    {
+      "pessoa": "Carlos",
+      "espanol": "Muy bien, gracias. ¿Y tú?",
+      "portugues": "Muito bem, obrigado. E você?"
+    },
+    {
+      "pessoa": "Ana",
+      "espanol": "También bien. Hoy vamos a estudiar.",
+      "portugues": "Também bem. Hoje vamos estudar."
+    }
+  ],
+  "teste": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Como se diz 'palavra 1' em espanhol?",
+      "opcoes": [
+        "palabra 1",
+        "opción b",
+        "opción c",
+        "opción d"
+      ],
+      "correta": 0
+    },
+    {
+      "tipo": "dissertativa",
+      "pergunta": "Escreva uma frase usando a palavra 'palabra 2'.",
+      "esperado": [
+        "Yo uso palabra 2",
+        "Me gusta palabra 2"
+      ],
+      "contexto": "Museus"
+    }
+  ]
+}
