@@ -1,0 +1,82 @@
+{
+  "numero": 25,
+  "titulo": "Aula 25: Números 1-20",
+  "modulo": 4,
+  "nivel": "basico",
+  "duracao": "15 min",
+  "vocabulario": [
+    {
+      "espanol": "uno",
+      "portugues": "um"
+    },
+    {
+      "espanol": "dos",
+      "portugues": "dois"
+    },
+    {
+      "espanol": "tres",
+      "portugues": "três"
+    },
+    {
+      "espanol": "cuatro",
+      "portugues": "quatro"
+    },
+    {
+      "espanol": "cinco",
+      "portugues": "cinco"
+    }
+  ],
+  "gramatica": {
+    "titulo": "Gramática - Números 1-20",
+    "explicacao": "Nesta aula vamos aprender sobre números 1-20 em espanhol. Este é um tema fundamental para a comunicação.",
+    "exemplos": [
+      {
+        "espanol": "Este es un ejemplo.",
+        "portugues": "Este é um exemplo."
+      },
+      {
+        "espanol": "Otro ejemplo aquí.",
+        "portugues": "Outro exemplo aqui."
+      }
+    ]
+  },
+  "dialogo": [
+    {
+      "pessoa": "Ana",
+      "espanol": "¡Hola! ¿Cómo estás?",
+      "portugues": "Olá! Como você está?"
+    },
+    {
+      "pessoa": "Carlos",
+      "espanol": "Muy bien, gracias. ¿Y tú?",
+      "portugues": "Muito bem, obrigado. E você?"
+    },
+    {
+      "pessoa": "Ana",
+      "espanol": "También bien. Hoy vamos a estudiar.",
+      "portugues": "Também bem. Hoje vamos estudar."
+    }
+  ],
+  "teste": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Como se diz 'um' em espanhol?",
+      "opcoes": [
+        "uno",
+        "opción b",
+        "opción c",
+        "opción d"
+      ],
+      "correta": 0
+    },
+    {
+      "tipo": "dissertativa",
+      "pergunta": "Escreva uma frase usando a palavra 'dos'.",
+      "esperado": [
+        "Yo uso dos",
+        "Me gusta dos"
+      ],
+      "contexto": "Números 1-20"
+    }
+  ]
+}

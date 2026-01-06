@@ -1,0 +1,82 @@
+{
+  "numero": 5,
+  "titulo": "Aula 5: Cumprimentos",
+  "modulo": 1,
+  "nivel": "basico",
+  "duracao": "15 min",
+  "vocabulario": [
+    {
+      "espanol": "hola",
+      "portugues": "olá"
+    },
+    {
+      "espanol": "buenos días",
+      "portugues": "bom dia"
+    },
+    {
+      "espanol": "buenas tardes",
+      "portugues": "boa tarde"
+    },
+    {
+      "espanol": "buenas noches",
+      "portugues": "boa noite"
+    },
+    {
+      "espanol": "¿cómo estás?",
+      "portugues": "como você está?"
+    }
+  ],
+  "gramatica": {
+    "titulo": "Gramática - Cumprimentos",
+    "explicacao": "Nesta aula vamos aprender sobre cumprimentos em espanhol. Este é um tema fundamental para a comunicação.",
+    "exemplos": [
+      {
+        "espanol": "Este es un ejemplo.",
+        "portugues": "Este é um exemplo."
+      },
+      {
+        "espanol": "Otro ejemplo aquí.",
+        "portugues": "Outro exemplo aqui."
+      }
+    ]
+  },
+  "dialogo": [
+    {
+      "pessoa": "Ana",
+      "espanol": "¡Hola! ¿Cómo estás?",
+      "portugues": "Olá! Como você está?"
+    },
+    {
+      "pessoa": "Carlos",
+      "espanol": "Muy bien, gracias. ¿Y tú?",
+      "portugues": "Muito bem, obrigado. E você?"
+    },
+    {
+      "pessoa": "Ana",
+      "espanol": "También bien. Hoy vamos a estudiar.",
+      "portugues": "Também bem. Hoje vamos estudar."
+    }
+  ],
+  "teste": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Como se diz 'olá' em espanhol?",
+      "opcoes": [
+        "hola",
+        "opción b",
+        "opción c",
+        "opción d"
+      ],
+      "correta": 0
+    },
+    {
+      "tipo": "dissertativa",
+      "pergunta": "Escreva uma frase usando a palavra 'buenos días'.",
+      "esperado": [
+        "Yo uso buenos días",
+        "Me gusta buenos días"
+      ],
+      "contexto": "Cumprimentos"
+    }
+  ]
+}

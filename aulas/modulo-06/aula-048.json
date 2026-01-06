@@ -1,0 +1,82 @@
+{
+  "numero": 48,
+  "titulo": "Aula 48: Comidas típicas",
+  "modulo": 6,
+  "nivel": "basico",
+  "duracao": "15 min",
+  "vocabulario": [
+    {
+      "espanol": "manzana",
+      "portugues": "maçã"
+    },
+    {
+      "espanol": "naranja",
+      "portugues": "laranja"
+    },
+    {
+      "espanol": "plátano",
+      "portugues": "banana"
+    },
+    {
+      "espanol": "uva",
+      "portugues": "uva"
+    },
+    {
+      "espanol": "fresa",
+      "portugues": "morango"
+    }
+  ],
+  "gramatica": {
+    "titulo": "Gramática - Comidas típicas",
+    "explicacao": "Nesta aula vamos aprender sobre comidas típicas em espanhol. Este é um tema fundamental para a comunicação.",
+    "exemplos": [
+      {
+        "espanol": "Este es un ejemplo.",
+        "portugues": "Este é um exemplo."
+      },
+      {
+        "espanol": "Otro ejemplo aquí.",
+        "portugues": "Outro exemplo aqui."
+      }
+    ]
+  },
+  "dialogo": [
+    {
+      "pessoa": "Ana",
+      "espanol": "¡Hola! ¿Cómo estás?",
+      "portugues": "Olá! Como você está?"
+    },
+    {
+      "pessoa": "Carlos",
+      "espanol": "Muy bien, gracias. ¿Y tú?",
+      "portugues": "Muito bem, obrigado. E você?"
+    },
+    {
+      "pessoa": "Ana",
+      "espanol": "También bien. Hoy vamos a estudiar.",
+      "portugues": "Também bem. Hoje vamos estudar."
+    }
+  ],
+  "teste": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Como se diz 'maçã' em espanhol?",
+      "opcoes": [
+        "manzana",
+        "opción b",
+        "opción c",
+        "opción d"
+      ],
+      "correta": 0
+    },
+    {
+      "tipo": "dissertativa",
+      "pergunta": "Escreva uma frase usando a palavra 'naranja'.",
+      "esperado": [
+        "Yo uso naranja",
+        "Me gusta naranja"
+      ],
+      "contexto": "Comidas típicas"
+    }
+  ]
+}

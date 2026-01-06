@@ -1,0 +1,82 @@
+{
+  "numero": 17,
+  "titulo": "Aula 17: Pai e mãe",
+  "modulo": 3,
+  "nivel": "basico",
+  "duracao": "15 min",
+  "vocabulario": [
+    {
+      "espanol": "padre",
+      "portugues": "pai"
+    },
+    {
+      "espanol": "madre",
+      "portugues": "mãe"
+    },
+    {
+      "espanol": "hermano",
+      "portugues": "irmão"
+    },
+    {
+      "espanol": "hermana",
+      "portugues": "irmã"
+    },
+    {
+      "espanol": "familia",
+      "portugues": "família"
+    }
+  ],
+  "gramatica": {
+    "titulo": "Gramática - Pai e mãe",
+    "explicacao": "Nesta aula vamos aprender sobre pai e mãe em espanhol. Este é um tema fundamental para a comunicação.",
+    "exemplos": [
+      {
+        "espanol": "Este es un ejemplo.",
+        "portugues": "Este é um exemplo."
+      },
+      {
+        "espanol": "Otro ejemplo aquí.",
+        "portugues": "Outro exemplo aqui."
+      }
+    ]
+  },
+  "dialogo": [
+    {
+      "pessoa": "Ana",
+      "espanol": "¡Hola! ¿Cómo estás?",
+      "portugues": "Olá! Como você está?"
+    },
+    {
+      "pessoa": "Carlos",
+      "espanol": "Muy bien, gracias. ¿Y tú?",
+      "portugues": "Muito bem, obrigado. E você?"
+    },
+    {
+      "pessoa": "Ana",
+      "espanol": "También bien. Hoy vamos a estudiar.",
+      "portugues": "Também bem. Hoje vamos estudar."
+    }
+  ],
+  "teste": [
+    {
+      "tipo": "multipla",
+      "pergunta": "Como se diz 'pai' em espanhol?",
+      "opcoes": [
+        "padre",
+        "opción b",
+        "opción c",
+        "opción d"
+      ],
+      "correta": 0
+    },
+    {
+      "tipo": "dissertativa",
+      "pergunta": "Escreva uma frase usando a palavra 'madre'.",
+      "esperado": [
+        "Yo uso madre",
+        "Me gusta madre"
+      ],
+      "contexto": "Pai e mãe"
+    }
+  ]
+}
